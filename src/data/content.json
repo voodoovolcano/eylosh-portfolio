@@ -1,0 +1,3271 @@
+{
+  "meta": {
+    "name": "Eylem Eylül Acarsoy",
+    "nickname": "Eylosh",
+    "build": "2.6",
+    "email": "eylulacarsoy@gmail.com"
+  },
+  "intro": [
+    {
+      "text": "eylem eylül acarsoy. eylosh, for short.",
+      "art": [
+        {
+          "shape": "hello",
+          "x": 80,
+          "y": 14,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.7
+        }
+      ]
+    },
+    {
+      "text": "a researcher and designer who never managed to stay in one discipline.",
+      "art": [
+        {
+          "shape": "arrows",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "b",
+          "tone": "green",
+          "depth": 0.9
+        },
+        {
+          "shape": "spark",
+          "x": 8,
+          "y": 72,
+          "cell": 9,
+          "set": "d",
+          "tone": "ink",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "she is curious about how identity, expression and introspection are shaped by the societies and institutions around us.",
+      "art": [
+        {
+          "shape": "mind",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "c",
+          "tone": "ink",
+          "depth": 0.7
+        },
+        {
+          "shape": "loop",
+          "x": 8,
+          "y": 74,
+          "cell": 10,
+          "set": "b",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "she studied visual communication design with a strong dose of cultural studies, and spent a few years in sociology too. one taught her to make things, the other to ask why people do what they do.",
+      "art": [
+        {
+          "shape": "ask",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.6
+        },
+        {
+          "shape": "question",
+          "x": 84,
+          "y": 70,
+          "cell": 12,
+          "set": "a",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    },
+    {
+      "text": "she has run cultural and educational spaces and organisations, coordinated projects and events, facilitated workshops, built archives, and gave art, research and organisations a visual voice.",
+      "art": [
+        {
+          "shape": "space",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "e",
+          "tone": "green",
+          "depth": 0.9
+        },
+        {
+          "shape": "book",
+          "x": 8,
+          "y": 72,
+          "cell": 10,
+          "set": "b",
+          "tone": "ink",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "today she is a master's candidate in the social and public innovation cluster at KISD in cologne, and a research assistant at the university of wuppertal.",
+      "art": [
+        {
+          "shape": "cap2",
+          "x": 80,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.7
+        },
+        {
+          "shape": "steps",
+          "x": 8,
+          "y": 72,
+          "cell": 10,
+          "set": "d",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    },
+    {
+      "text": "she looks at things from six sides:",
+      "art": [],
+      "hold": 2.6,
+      "sides": true,
+      "then": "she loves solutions, but she doesn't rush them."
+    },
+    {
+      "text": "she feels most at home in community. these days that's the hidden agenda collective: artists and designers from many fields.",
+      "art": [
+        {
+          "shape": "people",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "d",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "heart",
+          "x": 8,
+          "y": 72,
+          "cell": 9,
+          "set": "a",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "also: her family's home is a sanctuary for adopted stray cats. nine of them, currently.",
+      "art": [
+        {
+          "shape": "cat2",
+          "x": 80,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "heart",
+          "x": 84,
+          "y": 72,
+          "cell": 9,
+          "set": "d",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "there are several versions of her. choose one.",
+      "art": [
+        {
+          "shape": "stack",
+          "x": 82,
+          "y": 12,
+          "cell": 12,
+          "set": "c",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "arrow-down",
+          "x": 8,
+          "y": 72,
+          "cell": 11,
+          "set": "a",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    }
+  ],
+  "lenses": {
+    "learning": {
+      "label": "learning",
+      "subtitle": "learning experience · educational design · workshops",
+      "line": "she designs learning experiences: workshops, learning materials, play kits and digital tools for learning paths, for students, children and educators.",
+      "bug": "warning: wants every learning experience to be improved.",
+      "core": "learning design"
+    },
+    "systems": {
+      "label": "systems",
+      "subtitle": "social & cultural systems · design management · facilitation",
+      "line": "she coordinates programmes, designs workflows and facilitates the people inside them, from an education platform to a cultural foundation.",
+      "bug": "warning: cannot accept \"that's how things work\".",
+      "core": "coordination"
+    },
+    "visual": {
+      "label": "visual",
+      "subtitle": "visual identity · editorial · data visualisation · ui",
+      "line": "she gives complex content a clear visual form: identities, publications, websites, interfaces and data visualisation.",
+      "bug": "warning: can spend hours adjusting one tiny detail.",
+      "core": "visual communication"
+    },
+    "research": {
+      "label": "research",
+      "subtitle": "design research · sociology · ethnography · writing",
+      "line": "she researches through design: fieldwork, ethnography, interviews and speculative methods, with a sociological eye.",
+      "bug": "warning: one question creates 17 new ones.",
+      "core": "design research"
+    },
+    "art": {
+      "label": "art",
+      "subtitle": "speculative & critical design · art · installation",
+      "line": "she works with speculation, installation and print, often collectively, to make questions tangible.",
+      "bug": "warning: a simple object becomes a whole fictional universe.",
+      "core": "artistic practice"
+    }
+  },
+  "combinations": {
+    "learning+systems": "designs how learning runs inside institutions: platforms, paths and programmes.",
+    "learning+visual": "turns learning content into clear, tangible material: roadmaps, empathy maps and interfaces for learning paths.",
+    "learning+research": "researches how people learn and reflect, and designs from what she finds, from her thesis on introspection to Refin(d)ing KISD.",
+    "art+learning": "uses play, storytelling and making as ways of learning: games, workshops and speculative settings.",
+    "systems+visual": "makes organisations readable: identities, reports, workflows and visual strategies for institutions.",
+    "research+systems": "researches how institutions and services work for the people who use them, and redesigns them together.",
+    "art+systems": "coordinates exhibitions, public programmes and collective spaces where art meets its audience.",
+    "research+visual": "translates research into visual form: reports, books, maps and data visualisation.",
+    "art+visual": "works between graphic design and art: printmaking, fanzines, installations and identities for cultural spaces.",
+    "art+research": "builds speculative and critical works on real research questions, like a fictional institute for introspection.",
+    "_three_or_four": "{list} in one practice. the works below sit where they overlap.",
+    "_all": "all five together: design research, learning design, visual communication, coordination and artistic practice. the full range of her work.",
+    "_none": "pick one or more versions to see that side of her work."
+  },
+  "timeline": [
+    {
+      "label": "Visual Communication Design Bachelor",
+      "from": 2017.1,
+      "to": 2021.45,
+      "rows": [
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "visual",
+        "learning"
+      ],
+      "pitch": "Yaşar University, İzmir. where research through design started."
+    },
+    {
+      "label": "Workshops",
+      "from": 2018.1,
+      "to": 2020.1,
+      "rows": [
+        "art"
+      ],
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "pitch": "Fuar Matbaası, F Fanzin, Kemeraltı Dictionary: making by hand, with others."
+    },
+    {
+      "label": "Writings",
+      "from": 2018.4,
+      "to": 2020.6,
+      "rows": [
+        "research"
+      ],
+      "lenses": [
+        "research",
+        "art"
+      ],
+      "pitch": "essays on postmodernism, consumer culture, new media and film, and the questions behind the projects: sub-cultures, identity, originality.",
+      "sub": "Interests: sub-cultures, identity, originality, consumer culture, postmodernism"
+    },
+    {
+      "label": "Freelance Design Projects",
+      "sub": "client work since 2019: identities, publications, web, data visualisation",
+      "from": 2019.7,
+      "to": 2027.0,
+      "rows": [],
+      "lenses": [
+        "visual",
+        "systems"
+      ],
+      "pitch": "since 2019, alongside everything else: branding, editorial and web design for clients from innovation consultancies to NGOs.",
+      "lane": "alongside"
+    },
+    {
+      "label": "Motif",
+      "sub": "Graduation Project",
+      "from": 2020.6,
+      "to": 2021.45,
+      "rows": [
+        "art",
+        "research"
+      ],
+      "lenses": [
+        "art",
+        "visual",
+        "research"
+      ],
+      "work": "motif",
+      "pitch": "graduation project: a tangible storytelling console about a society stuck in its search for originality."
+    },
+    {
+      "label": "GİY",
+      "sub": "with ARAMA Consultancy · design and communication coordinator",
+      "from": 2021.5,
+      "to": 2022.45,
+      "rows": [
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "work": "giy",
+      "pitch": "design & communication coordinator: visual identity, learning materials, design-thinking workshops, mentoring students."
+    },
+    {
+      "label": "Sociology",
+      "sub": "bachelor's studies",
+      "from": 2022.8,
+      "to": 2025.0,
+      "rows": [],
+      "lenses": [
+        "research"
+      ],
+      "pitch": "three years of sociology alongside work, 2022–2025: better tools for asking why people do what they do.",
+      "lane": "alongside"
+    },
+    {
+      "label": "BAYETAV Art",
+      "sub": "Design and Experience Strategist",
+      "from": 2023.4,
+      "to": 2024.6,
+      "rows": [
+        "systems",
+        "learning",
+        "visual",
+        "art",
+        "research"
+      ],
+      "lenses": [
+        "systems",
+        "art",
+        "learning",
+        "visual",
+        "research"
+      ],
+      "work": "bayetav",
+      "pitch": "design & experience strategist: exhibitions, public programmes, workflows, people."
+    },
+    {
+      "label": "KISD",
+      "sub": "MA Candidate in Social and Public Innovation Cluster",
+      "from": 2024.65,
+      "to": 2027.0,
+      "rows": [
+        "art",
+        "research"
+      ],
+      "lenses": [
+        "research",
+        "learning",
+        "art",
+        "systems"
+      ],
+      "current": true,
+      "pitch": "MA in integrated design, social & public innovation, TH Köln."
+    },
+    {
+      "label": "Digipath Pro Project",
+      "sub": "Research Assistant in University of Wuppertal",
+      "from": 2026.0,
+      "to": 2027.0,
+      "rows": [
+        "systems",
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "current": true,
+      "work": "lernpfad",
+      "pitch": "research assistant at the university of wuppertal since january 2026, building Lernpfad-Designer."
+    },
+    {
+      "label": "DAAD Scholarship",
+      "sub": "postgraduate studies in fine art, design, visual communication and film",
+      "from": 2024.55,
+      "to": 2027.0,
+      "rows": [],
+      "lane": "alongside",
+      "lenses": [
+        "research",
+        "learning",
+        "art"
+      ],
+      "pitch": "DAAD scholarship holder since july 2024, for her master's at KISD."
+    },
+    {
+      "label": "Hidden Agenda Collective",
+      "sub": "member · shared workshop and studio · festivals, exhibitions, screenings, flea markets, talks",
+      "from": 2026.0,
+      "to": 2027.0,
+      "rows": [],
+      "lane": "alongside",
+      "lenses": [
+        "art",
+        "systems"
+      ],
+      "pitch": "since january 2026: a community of artists and designers from different fields. a shared workshop, her small studio, and volunteer artistic collaboration: festivals, events, exhibitions, film screenings, flea markets and talks."
+    },
+    {
+      "label": "ARAMA Consultancy",
+      "sub": "presentations · Yaşar Holding search conference workshops",
+      "from": 2022.5,
+      "to": 2023.38,
+      "rows": [
+        "systems"
+      ],
+      "lenses": [
+        "systems",
+        "visual",
+        "research"
+      ],
+      "pitch": "after GİY she kept working with ARAMA, a participatory management consultancy: presentation design, and the reporting of search conference workshops with Yaşar Holding."
+    }
+  ],
+  "works": [
+    {
+      "id": "inner-mechanics",
+      "title": "the]institute]of[inner[mechanics",
+      "year": "2025–2027",
+      "lenses": [
+        "learning",
+        "research",
+        "art"
+      ],
+      "tag": "Master Thesis · Speculative Design · Research through Design",
+      "question": "How can design fiction become an environment for collective research?",
+      "text": "A speculative–empirical design research project that uses a fictional institute as a shared research environment to investigate how creative learning environments can support introspection, metacognition and self-authorship, through participatory workshops, visual tools and collective inquiry. Moving through many creative, educational and social environments, I noticed how differently they shape the way people think, create and express themselves. I traced this through pedagogy, philosophy, psychology and sociology, and revisited earlier experiments such as Feely Thingies and Re-fin(d)ing KISD. With a \"Critical Worlding Method\", I designed a fictional research institute that participants enter as co-researchers, with its own identity, visual language, roles, badges, protocols, case files and research tools. Case File 00.01 took place online on a shared Miro board; Case File 00.02 translated the framework into a physical, performative workshop at KISD. The Institute is now becoming an interactive exhibition for January 2027.",
+      "role": "Concept, research, speculative world-building, workshop design and facilitation, visual tools",
+      "featured": true,
+      "context_line": "Master thesis at KISD, Cologne. Speculative design, participatory and performative methods, research through design.",
+      "image": "",
+      "speculative": true,
+      "credits": {
+        "mode": "solo",
+        "with": "supervised by Prof. Oliver Baron & Diego Alatorre Guzmán",
+        "where": "KISD, TH Köln"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "photo:im-5",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "photo:im-6",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "photo:im-7",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "label": "read my thesis proposal (Google Drive)",
+          "href": "https://drive.google.com/file/d/14_jwDRDL3MbAiHM1HYzv5ksUmynpyxvq/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id": "memo",
+      "title": "memo",
+      "year": "2026",
+      "lenses": [
+        "art",
+        "learning",
+        "research",
+        "visual"
+      ],
+      "tag": "Interactive Game Experience · Designing DataXCultures, KISD",
+      "question": "How do smart technologies and AI companions influence our relationships with personal data, privacy and trust?",
+      "text": "Imagine Cologne in 2076. A person is searching for their lost robotic dog, accompanied by an AI companion, and the city reveals itself through different layers of information. As a teaching assistant in KISD's Designing Data Cultures course, I contributed to research and discussions on smart cities, urban data infrastructures and how location-based technologies and AI companions shape the way we experience and navigate cities. This research inspired memo, a speculative educational game I co-developed with Jihyun and Texas State University. Two players wear modified red-and-blue 3D glasses, and each sees a different visual layer on the same screen; to follow the story and find the dog, they have to exchange information and combine their perspectives. Through this playful mechanic we explored data visibility, digital literacy, privacy and trust in future urban environments, and presented the prototype at an exhibition where visitors played it together.",
+      "role": "Teaching assistance, research, game co-design",
+      "featured": true,
+      "speculative": true,
+      "context_line": "A speculative two-player game, developed through research and teaching assistance in the Designing DataXCultures course at KISD, with Texas State University.",
+      "image": "photo:memo-17",
+      "credits": {
+        "mode": "team",
+        "with": "with Jihyun and Texas State University",
+        "where": "KISD, TH Köln"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "photo:memo-18",
+              "w": 1920,
+              "h": 1089
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "photo:memo-19",
+              "w": 1920,
+              "h": 1080
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lernpfad",
+      "title": "Lernpfad-Designer",
+      "year": "2026–ongoing",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "AI-Assisted Development · Learning Experience Design",
+      "question": "How can complex learning paths become something you can see and navigate?",
+      "text": "A custom web application for ALISE / DigiPad Pro at the University of Wuppertal, integrated into Moodle-based environments, for visually planning, structuring and documenting learning paths and course concepts.",
+      "role": "Concept, design & development · AI-assisted prototyping · learning experience design · interface testing",
+      "featured": true,
+      "context_line": "Built for ALISE / DigiPad Pro at the University of Wuppertal, to plan and document learning paths in Moodle.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the ALISE / DigiPad Pro project team",
+        "where": "University of Wuppertal"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://lernpfad-designer.figma.site",
+          "w": 16,
+          "h": 10,
+          "label": "Lernpfad-Designer, live"
+        },
+        {
+          "type": "link",
+          "label": "open Lernpfad-Designer in a new tab",
+          "href": "https://lernpfad-designer.figma.site"
+        }
+      ]
+    },
+    {
+      "id": "refinding-kisd",
+      "title": "Refin(d)ing KISD",
+      "year": "2025–2026",
+      "lenses": [
+        "learning",
+        "research"
+      ],
+      "tag": "Collective Design Research · KISD",
+      "question": "How can embodying personal experiences through creative practices open up new ways of reflection?",
+      "text": "A student-led research and intervention project on identity, belonging and community at KISD. It started with one question: what does it mean to be a KISDie? We co-founded the Re-fin(d)ing KISD Collective, listened to students through a survey, gave the answers a visual language, and turned what we learned into a playful workshop where students and professors talked about KISD together for the first time in this format.",
+      "role": "Co-founder and co-lead of the collective; research, workshop design and facilitation",
+      "featured": false,
+      "context_line": "A Master and Self-Initiated Project (MIP/SIP) at KISD, Cologne, supervised by Diego Alatorre Guzmán.",
+      "image": "embedded:rk-hero",
+      "credits": {
+        "mode": "team",
+        "with": "with the Re-fin(d)ing KISD Collective: Annalena, Alina, Citra, Thilini, Moritz, Levin, Jonas, Sofia, Zoe, Samuel and many more",
+        "where": "KISD, TH Köln"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "marquee",
+          "items": [
+            "embedded:rk-08",
+            "embedded:rk-17",
+            "embedded:rk-table",
+            "embedded:rk-37",
+            "embedded:rk-46",
+            "embedded:rk-02"
+          ],
+          "credit": "Workshop day, 20 January 2026"
+        }
+      ],
+      "bullets": {
+        "title": "what I did",
+        "items": [
+          "Co-founded the Re-fin(d)ing KISD Collective and co-led it within the lead team.",
+          "Helped run the student survey on belonging and KISD's identity, and make sense of the answers together.",
+          "Worked on the collective's visual language and communication: the \"How it feels to be a KISDie\" visualisation, posters and the call to join.",
+          "Co-designed and co-facilitated the Designer Identity Doll workshop on 20 January 2026, from the doll-making to the discussion with professors.",
+          "Documented the process and reflected on it in a course report."
+        ]
+      },
+      "sections": [
+        {
+          "title": "where it started",
+          "text": "It began in the Re-thinking Design Education long-term project in 2025 with Prof. Oliver Baron and Diego Alatorre Guzmán, where we talked about education, design education, best practices and creativity. It became the Re-thinking / Transforming Design Education AG, a working group trying to understand KISD's problems and intervene. From there, some of us started the Re-fin(d)ing KISD Collective, around three questions: what does it mean to be a KISDie, is there a problem with community at KISD, and who is responsible for it?"
+        },
+        {
+          "title": "listening: the survey",
+          "text": "In the summer term of 2025 we asked students what they love, experience and wish for at KISD: about values, atmosphere, responsibility and possible changes. There was strong appreciation for freedom, but also recurring feelings of being lost, disconnected or unsupported. These answers defined the core tensions we kept working with."
+        },
+        {
+          "title": "how it feels to be a KISDie",
+          "text": "We turned the answers into a visualisation of six themes: attitudes and mindsets, moments and rituals, spaces and objects, care and trace, learning and autonomy, support and belonging. Its visual language is fluid and playful on purpose: it shows many identities rather than one fixed KISD.",
+          "flow": [
+            {
+              "type": "scroll",
+              "src": "embedded:rk-info-1",
+              "caption": "\"How it feels to be a KISDie\": scroll inside the image ↓"
+            }
+          ]
+        },
+        {
+          "title": "from a working group to a collective",
+          "text": "We presented our insights at the Friday Presentations and invited everyone to join; a WhatsApp community grew from there. The initiative became a Master and Self-Initiated Project, supervised by Diego Alatorre Guzmán. A small lead team collected and refined ideas, open weekly meetings brought in more voices, and we looked back at the history of KISD and the Kölner Modell to understand where its freedom comes from. Working with Diego, we decided to approach heavy topics through play.",
+          "flow": [
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-change",
+                  "w": 778,
+                  "h": 1100
+                }
+              ],
+              "caption": "Things that we can change at KISD: four themes from the survey and open talks"
+            },
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-info-2",
+                  "w": 760,
+                  "h": 1139
+                }
+              ],
+              "caption": "The plan: discussions, workshops and a SIP incubator"
+            }
+          ]
+        },
+        {
+          "title": "designing the workshop",
+          "text": "Instead of trying to fix the institution, we designed a format where students could articulate their own position within it. At its core was the Designer Identity Doll: each participant built a doll in two halves, one for their current designer identity (skills, habits, interests) and one for their struggles, insecurities, stereotypes and fears about the future. Colour cards paired people randomly, outside their friend groups, and guiding prompts helped each pair describe the other's designer identity.",
+          "flow": [
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-poster",
+                  "w": 1000,
+                  "h": 1415
+                }
+              ],
+              "caption": "The workshop poster"
+            }
+          ]
+        },
+        {
+          "title": "the workshop day",
+          "text": "On 20 January 2026, the workshop moved from making to talking: paired exchanges, a sharing circle where everyone presented their doll, and a question matrix on the floor. Its two axes asked whether participants feel supported by KISD (receiving) and whether they feel able to change it (giving); placing the dolls on it made the group's sense of support and agency visible at a glance.",
+          "flow": [
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-30",
+                  "w": 1100,
+                  "h": 733
+                }
+              ]
+            },
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-35",
+                  "w": 733,
+                  "h": 1100
+                }
+              ],
+              "caption": "The question matrix: giving and receiving"
+            },
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-27",
+                  "w": 1100,
+                  "h": 733
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "talking with the faculty",
+          "text": "For the final circle we invited professors and staff with different perspectives: Mr. Wrede on the original vision of KISD, Daniela on its structures and organisation, Sebastian as a newer professor, and Jule as a former student and current research assistant. We started with a personal question, what is your relationship with KISD?, and the conversation moved to self-responsibility and neglect, freedom and structure, identity and community. It was the first dialogue of this kind between students and faculty.",
+          "flow": [
+            {
+              "type": "images",
+              "items": [
+                {
+                  "src": "embedded:rk-42",
+                  "w": 1100,
+                  "h": 733
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "what came out of it",
+          "text": "As a first workshop in this format, it had no predefined outcome: it tested whether students and professors are willing to have these conversations, and they were. At the end we asked everyone what the values of KISD are, what feels clear and what still seems abstract. Their answers became the starting points for what comes next."
+        },
+        {
+          "title": "looking back",
+          "text": "I had just arrived in Germany from Türkiye and was trying to understand a new educational system and a new culture. The collective became part of my own integration: a way to connect, to meet people and to take initiative in a place whose values I care about. It was the first time I truly felt autonomy, agency and active learning in a university project, intellectually, socially and emotionally. It also showed me how much agency students at KISD have, and how open the institution is to questioning itself. I believe that ability, to reflect critically and keep reconfiguring from within, is one of the most valuable things an organisation can have."
+        }
+      ]
+    },
+    {
+      "id": "bayetav",
+      "title": "BAYETAV Art",
+      "year": "2023–2024",
+      "lenses": [
+        "systems",
+        "art",
+        "learning"
+      ],
+      "tag": "Cultural Management · Exhibitions · Public Programmes · Service Design",
+      "question": "How can a cultural space bring together art, heritage, ecology and social engagement?",
+      "text": "BAYETAV Art opened in May 2023 in the Fernand Pagy Mansion, one of the few remaining 19th-century Levantine mansions in İzmir: a public meeting place where artistic practices, academic research and cultural programmes come together around the idea of living together. I joined as the space was opening, first as Venue and Events Manager and later as Design and Experience Strategist, and stayed until July 2024. I often think of BAYETAV Art as my second school.",
+      "role": "Venue and Events Manager (05/2023–11/2023), Design and Experience Strategist (11/2023–07/2024)",
+      "featured": true,
+      "context_line": "BAYETAV Art, the art space of the We Live Together Education and Social Sciences Foundation, in the historic Fernand Pagy Mansion in Bornova, İzmir.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the BAYETAV team",
+        "where": "BAYETAV Art, İzmir"
+      },
+      "review": {
+        "text": "BAYETAV's transdisciplinary structure is the ultimate space for me today. Traces of my portfolio projects can be found in every task I tackle here, and I've advanced ongoing projects by incorporating innovation gleaned from my other works' shortcomings.",
+        "written": "2024"
+      },
+      "flow": [
+        {
+          "type": "marquee",
+          "items": [
+            "embedded:bay-g-DSCF9560",
+            "embedded:bay-g-DSCF9229",
+            "embedded:bay-g-DSCF9090",
+            "embedded:bay-g-DSCF9549",
+            "embedded:bay-g-DSCF9272",
+            "embedded:bay-g-DSCF9071",
+            "embedded:bay-g-DSCF9587",
+            "embedded:bay-g-DSCF9268",
+            "embedded:bay-g-DSCF9493",
+            "embedded:bay-g-DSCF9078",
+            "embedded:bay-g-DSCF9586",
+            "embedded:bay-g-DSCF9504"
+          ],
+          "credit": "BAYETAV Art, Fernand Pagy Mansion. Photos: Ege Güler"
+        }
+      ],
+      "bullets": {
+        "title": "what I did there",
+        "items": [
+          "Co-coordinated and facilitated exhibition processes, including Ode to Earth, Arising from and Flowing Back to Itself and Yield Events.",
+          "Designed and organised the public programme: workshops, talks, concerts, performances and screenings.",
+          "Set up how the venue works: event-planning workflows, guidelines, the venue manual, inventory and archive.",
+          "Coordinated the team and volunteers, and supervised the space day to day.",
+          "Guided visitors through the exhibitions and looked after the visitor experience, including observation and attendance data.",
+          "Led social media and communication, networking, and stage and sound design for events.",
+          "Photographed and filmed events and exhibitions.",
+          "Turned BAYETAV Academy's research into reports and publications, and designed exhibition books.",
+          "Took care of the garden and composting, too."
+        ]
+      },
+      "image_credit": "Photo: Ege Güler",
+      "sections": [
+        {
+          "title": "exhibitions",
+          "text": "I co-coordinated and facilitated the exhibition processes at BAYETAV Art, from preparation and installation to visitor guidance.",
+          "items": [
+            "Ode to Earth (Yeryüzüne Övgü)",
+            "Arising from and Flowing Back to Itself (Kendisinden Doğup Kendisine Dönen)",
+            "Yield Events (Mahsul Vakaları)"
+          ],
+          "flow": []
+        },
+        {
+          "title": "events",
+          "text": "I designed and organised the public programme: workshops, talks, concerts, performances and screenings in the mansion and its garden.",
+          "flow": []
+        },
+        {
+          "title": "exhibition tours",
+          "text": "I guided visitors through the exhibitions and the mansion.",
+          "flow": []
+        },
+        {
+          "title": "academic work and workshop contributions",
+          "text": "",
+          "flow": []
+        },
+        {
+          "title": "tools",
+          "text": "I set up how the venue works, so that the team could run it together.",
+          "items": [
+            "Venue manual",
+            "Event-planning workflow",
+            "Inventory and archive",
+            "Daily and monthly reports"
+          ],
+          "flow": [
+            {
+              "type": "link",
+              "label": "read the BAYETAV Art venue manual (Google Drive)",
+              "href": "https://drive.google.com/file/d/1THIQBf-2VBHptB5vDEkP9ao9_AP9K8Rp/view?usp=sharing"
+            }
+          ]
+        },
+        {
+          "title": "strategy and design management",
+          "text": "",
+          "flow": []
+        },
+        {
+          "title": "editorial design",
+          "text": "I turned BAYETAV Academy's research into reports and publications, and designed exhibition books.",
+          "flow": []
+        },
+        {
+          "title": "social media",
+          "text": "I coordinated BAYETAV Art's social media: setting up templates and a design system within the visual identity, and producing content for each exhibition and programme.",
+          "flow": []
+        },
+        {
+          "title": "creative content",
+          "text": "",
+          "flow": [
+            {
+              "type": "link",
+              "label": "see @bayetavsanat on Instagram",
+              "href": "https://www.instagram.com/bayetavsanat/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "giy",
+      "title": "İHKİB GİY",
+      "year": "2021–2022",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "Design, Education & Innovation",
+      "question": "How can design education bring different disciplines together to rethink fashion?",
+      "text": "An apparel innovation and education platform for university students. Visual identity, learning materials (road-map booklet, empathy map, idea assessment matrix, jury manual), design-thinking workshops, mentoring and programme coordination.",
+      "role": "Design and communication coordinator",
+      "featured": true,
+      "context_line": "An apparel innovation competition and education platform by İHKİB for university students from all disciplines.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Arama Consultancy, for İHKİB",
+        "where": "online, Türkiye"
+      },
+      "review": {
+        "text": "GİY was my first project that reinforced an empathy-driven approach and taught me to deal with uncertainty. As a recent graduate, I emphasized a student-centric approach, highlighting education and the student experience, which fueled my curiosity in education.",
+        "written": "2024"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://www.youtube.com/embed/wzJzlq_hceY",
+          "w": 685,
+          "h": 385
+        }
+      ],
+      "hero_video": "https://video.wixstatic.com/video/5ec39d_45f6c392795b441bb75103aa9705d59c/1080p/mp4/file.mp4",
+      "flow_max": 860,
+      "sections": [
+        {
+          "title": "learning materials",
+          "text": "For the online education platform I designed a set of learning materials that guided students from discovery to their final proposal: workbooks, maps, matrices, cards and checklists. Hover over a card to see what it is; click to open the file.",
+          "flow": [
+            {
+              "type": "deck",
+              "items": [
+                {
+                  "src": "embedded:giy-card-0",
+                  "label": "Project Action Plan",
+                  "href": "https://docs.google.com/spreadsheets/d/1oilpHwU01lGnyJfujT31Mm83aZJxTFjUqlSLXFsuoro/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-1",
+                  "label": "Customer Empathy Map",
+                  "href": "https://drive.google.com/file/d/1GwOTNhC7wljGIMFWIfbHS_pJ4yrE39_u/view",
+                  "w": 520,
+                  "h": 368
+                },
+                {
+                  "src": "embedded:giy-card-2",
+                  "label": "Idea Evaluation Matrix",
+                  "href": "https://drive.google.com/file/d/1YAeVu9cR2dJcHkosA1vMAoOmvm5E9mSV/view",
+                  "w": 520,
+                  "h": 368
+                },
+                {
+                  "src": "embedded:giy-card-3",
+                  "label": "Resources",
+                  "href": "https://drive.google.com/file/d/1MnsYgcyvKy52q9NF8fwl0XVAcxnOSi3I/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-4",
+                  "label": "Discovery Workshop Workbook",
+                  "href": "https://drive.google.com/file/d/1KfHnGab41y20LRHG3N5ZLgOfs7eTTQLL/view",
+                  "w": 520,
+                  "h": 402
+                },
+                {
+                  "src": "embedded:giy-card-5",
+                  "label": "Learning Card",
+                  "href": "https://drive.google.com/file/d/1s-_D0vFWRKpyUnIJaETawcdjw4xb0uj5/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-6",
+                  "label": "Project Proposal Form",
+                  "href": "https://drive.google.com/file/d/1ZBX4L62glgO_nH_Z-6UxtuqzTi1uNpVK/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-7",
+                  "label": "Team Evaluation",
+                  "href": "https://drive.google.com/file/d/1yVegi4tD_Vqlvc-YgfWDhu8K9SrEnlqi/view",
+                  "w": 520,
+                  "h": 368
+                },
+                {
+                  "src": "embedded:giy-card-8",
+                  "label": "Team Role Distribution",
+                  "href": "https://drive.google.com/file/d/1jrm5jCNoBILdxYNuadnb5oq2FEJCbkss/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-9",
+                  "label": "Design Workshop Workbook",
+                  "href": "https://drive.google.com/file/d/13xIKdmoeh6hfPYzpawfnJp83C8fJodw1/view",
+                  "w": 520,
+                  "h": 402
+                },
+                {
+                  "src": "embedded:giy-card-10",
+                  "label": "Participant Roadmap",
+                  "href": "https://drive.google.com/file/d/1t5vaGtWl9SIv_FSalqe1_WGAbUq8a3kq/view",
+                  "w": 420,
+                  "h": 594
+                },
+                {
+                  "src": "embedded:giy-card-11",
+                  "label": "Roadmap Checklist",
+                  "href": "https://drive.google.com/file/d/1_rX2w_7vMWard5hg268El6ofpqRic5Qn/view",
+                  "w": 420,
+                  "h": 594
+                }
+              ],
+              "caption": "İHKİB GİY learning materials, 2021–2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "motif",
+      "title": "Motif",
+      "year": "2021",
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "tag": "Critical Design · Tangible Interaction · Graduation Project",
+      "question": "What happens when a society gets stuck in its search for originality?",
+      "text": "An independent speculative design and tangible interaction project exploring technology, identity and consumer culture through an interactive fictional world. What happens when a society gets stuck in its search for originality? Motif imagines an island society where people increasingly rely on machines to construct and maintain their individuality, told from the machines' point of view. Visitors discover the island by placing physical Motif disks into a tangible storytelling console; each disk reveals a fragment of the story, in any order. I built the interaction with Arduino, sensors and projection mapping, and developed a visual language through PETSCII animations. During the pandemic, Motif became my creative playground and sparked my interest in tangible interfaces, interaction logic and narrative.",
+      "role": "Concept · storytelling · interaction design · tangible prototyping · installation",
+      "tools": "Arduino · Processing · 3D printing · laser-cut cardboard · projection mapping",
+      "featured": true,
+      "context_line": "Graduation project at Yaşar University, shown at Good Design ÜTAŞ 2021.",
+      "image": "",
+      "speculative": true,
+      "credits": {
+        "mode": "solo",
+        "with": "",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "I engaged in philosophical debates about Motif's nature, leading me towards critical design. The project contained compelling elements of system design, nudging me towards service design within its narrative. My presentation of Motif was methodological, systematic, and comprehensive.",
+        "written": "2024"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_f6cf4047eb894efc83628c5358a10768~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_f6cf4047eb894efc83628c5358a10768.jpg",
+              "w": 975,
+              "h": 547
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_8c5e28fa9b6f4d16810b90dfe6acedfe~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_8c5e28fa9b6f4d16810b90dfe6acedfe.jpg",
+              "w": 976,
+              "h": 210
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_7fb0f2400baf43aa881c6571499dd0f5~mv2.gif/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_7fb0f2400baf43aa881c6571499dd0f5.jpg",
+              "w": 600,
+              "h": 285
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_223cabf76e20427bb741e17085f62e28~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_223cabf76e20427bb741e17085f62e28.jpg",
+              "w": 980,
+              "h": 405
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_d2f871c262fd4c92a04322547a97d31f~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_d2f871c262fd4c92a04322547a97d31f.jpg",
+              "w": 977,
+              "h": 258
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_112c74a0add6449982bb723e1b99f7d9~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_112c74a0add6449982bb723e1b99f7d9.jpg",
+              "w": 975,
+              "h": 772
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5c6301b1d242439ca6a6d6df5591e9c8~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5c6301b1d242439ca6a6d6df5591e9c8.jpg",
+              "w": 965,
+              "h": 844
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_ac403f068a744e58bb3ef41fd30fd432~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_ac403f068a744e58bb3ef41fd30fd432.jpg",
+              "w": 966,
+              "h": 323
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_df964082d4944223bb5512d3342f88d6~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_df964082d4944223bb5512d3342f88d6.jpg",
+              "w": 757,
+              "h": 323
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_d896cb69272c44979a087f4f3636b059~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_d896cb69272c44979a087f4f3636b059.jpg",
+              "w": 979,
+              "h": 1431
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_a208f16ed26049f79491b48ae5b563a6~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_a208f16ed26049f79491b48ae5b563a6.jpg",
+              "w": 944,
+              "h": 584
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_8bdff4d75da7457eb3cf1ff68e885010~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_8bdff4d75da7457eb3cf1ff68e885010.jpg",
+              "w": 968,
+              "h": 1070
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_dc25e6d3fb17403893830e16866df811~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_dc25e6d3fb17403893830e16866df811.jpg",
+              "w": 975,
+              "h": 548
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_a61dfa29d6184dd7939174a6ef6e191c~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_a61dfa29d6184dd7939174a6ef6e191c.jpg",
+              "w": 986,
+              "h": 314
+            }
+          ]
+        },
+        {
+          "type": "embed",
+          "src": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpOyp60S0qaSpI8KHsL26G5%2FMotif-Storyline-Plan%3Fnode-id%3D0%253A1%26t%3Du190LZkFiIf66mtg-1",
+          "w": 835,
+          "h": 475
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_a48cd8e0545b4fcb8cfe5f13281d409e~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_a48cd8e0545b4fcb8cfe5f13281d409e.jpg",
+              "w": 967,
+              "h": 193
+            }
+          ]
+        },
+        {
+          "type": "embed",
+          "src": "https://www.youtube.com/embed/FviGDfKi98I",
+          "w": 480,
+          "h": 270
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_0b3a42bfd1974b668ba8da3c06c2e111~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_0b3a42bfd1974b668ba8da3c06c2e111.jpg",
+              "w": 974,
+              "h": 1067
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_4e1c020abb6e473bb11e2e7be8b22b19~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_4e1c020abb6e473bb11e2e7be8b22b19.jpg",
+              "w": 982,
+              "h": 1200
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_ecd9bd9a483b4be981868acc5c3a52b1~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_ecd9bd9a483b4be981868acc5c3a52b1.jpg",
+              "w": 976,
+              "h": 144
+            }
+          ]
+        },
+        {
+          "type": "embed",
+          "src": "https://sketchfab.com/models/2a3e5c36d8c04c5ab5ca7dc62dba5842/embed?ui_theme=dark",
+          "w": 753,
+          "h": 569
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e62d2564eadd4e1f9ec5e0ae3f782d83~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e62d2564eadd4e1f9ec5e0ae3f782d83.jpg",
+              "w": 953,
+              "h": 109
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_9a7952d3411540178765a76e5e160a37~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_9a7952d3411540178765a76e5e160a37.jpg",
+              "w": 974,
+              "h": 370
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e0cb16f3184143ceb7890ac090792b6d~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e0cb16f3184143ceb7890ac090792b6d.jpg",
+              "w": 971,
+              "h": 640
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_522467d2a07442379139feac50a21918~mv2.gif/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_522467d2a07442379139feac50a21918.jpg",
+              "w": 521,
+              "h": 369
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e127b5849c0b4cb1b8d6172c608300d2~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e127b5849c0b4cb1b8d6172c608300d2.jpg",
+              "w": 925,
+              "h": 152
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_48635927f6774554a272582d4cf3b805~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_48635927f6774554a272582d4cf3b805.jpg",
+              "w": 607,
+              "h": 334
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_ada625f6445f46a3b4f37d2739409aea~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_ada625f6445f46a3b4f37d2739409aea.jpg",
+              "w": 974,
+              "h": 90
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_6959e2a2e33945ad84514fa811776977~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6959e2a2e33945ad84514fa811776977.jpg",
+              "w": 964,
+              "h": 270
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_bed0a59a2dbb4c30a0157954b8ac4ef6~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_bed0a59a2dbb4c30a0157954b8ac4ef6.jpg",
+              "w": 980,
+              "h": 395
+            }
+          ]
+        },
+        {
+          "type": "embed",
+          "src": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FedeGX0UPiLStH4yPSHxEzi%2FMotif-Exploratory-Guide%3Fnode-id%3D5%253A5%26starting-point-node-id%3D5%253A5",
+          "w": 886,
+          "h": 1213
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_07835829aa0f49cf9022bad1fba17e51~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_07835829aa0f49cf9022bad1fba17e51.jpg",
+              "w": 999,
+              "h": 280
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so-fi",
+      "title": "so-fi",
+      "year": "2020",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "Collaborative UI/UX · Accessibility",
+      "question": "How might people experience a city beyond what they can see?",
+      "text": "A mobile experience designed for and with visually impaired and blind people, turning textures into sound and guiding them through cultural and historical places. With İzmir Tarih, İzmir Municipality and Vestel's UX team.",
+      "role": "Team project (with Merve Topay, Zeynep Güneş Acar)",
+      "featured": true,
+      "context_line": "A team project with İzmir Tarih, İzmir Municipality and Vestel's UX team.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Merve Topay & Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "In this project, insightful interviews combined with our research led to a strong application. However, our presentation lacked impact in conveying the discussed technology. Given another chance, I would research and prototype the technology earlier to enhance the presentation's effectiveness.",
+        "written": "2024"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://cdn.flipsnack.com/widget/v2/widget.html?hash=cfev3nubdc",
+          "w": 980,
+          "h": 699
+        },
+        {
+          "type": "link",
+          "label": "see so-fi on Behance",
+          "href": "https://www.behance.net/gallery/130190441/so-fi-Mobile-App-for-Visually-Impaired-Children"
+        }
+      ]
+    },
+    {
+      "id": "cologne",
+      "title": "Customer Centers of the Future",
+      "year": "2025",
+      "lenses": [
+        "systems",
+        "visual"
+      ],
+      "tag": "Service Design · KISD × Stadt Köln (Stadtklar)",
+      "question": "How do people feel about bureaucracy before they even arrive?",
+      "text": "A team project with the City of Cologne, researching and redesigning services for the Kundenzentrum. The research focused on the digital appointment system, digitalisation and data privacy: how citizens emotionally navigate bureaucracy and information systems before they reach a public office. A comparative analysis of Germany's fragmented bureaucracy and Türkiye's centralised e-Devlet system showed how differently societies negotiate trust and security.",
+      "role": "Service design research, UI/UX, data visualisation (team project)",
+      "featured": false,
+      "context_line": "A service design project with the City of Cologne at KISD, 2025.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the City of Cologne",
+        "where": "KISD, TH Köln"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://www.canva.com/design/DAGoErZQ7oc/hlo9dA0DiImsJpDp6zf75g/view?embed",
+          "w": 16,
+          "h": 9,
+          "label": "Customer Centers of the Future, presentation 1"
+        },
+        {
+          "type": "link",
+          "label": "open presentation 1 in Canva",
+          "href": "https://canva.link/f62egftee9jud6b"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.canva.com/design/DAGqCYOP3-Y/29Ck_ti1o4cnVP4weQAcIA/view?embed",
+          "w": 16,
+          "h": 9,
+          "label": "Customer Centers of the Future, presentation 2 with the Figma prototype"
+        },
+        {
+          "type": "link",
+          "label": "open presentation 2 in Canva (links through to the Figma prototype)",
+          "href": "https://canva.link/st2entzaaj8ueyh"
+        }
+      ]
+    },
+    {
+      "id": "publications",
+      "title": "Publications",
+      "year": "2020–2024",
+      "lenses": [
+        "visual",
+        "research",
+        "systems"
+      ],
+      "tag": "Editorial Design",
+      "question": "How do research reports become books people want to open?",
+      "text": "Reports and books for BAYETAV and innovation clients, incl. Praise for Multiple Identities (Levantines of İzmir), Rebuilding Hatay After the Earthquake, Reconstruction Report on Samandağ, Rivers and Children, Singapore & Canada Innovation Guides.",
+      "role": "Editorial design, visual identity of reports",
+      "featured": false,
+      "context_line": "Books and reports for BAYETAV and innovation clients, 2020–2024.",
+      "image": "",
+      "credits": {
+        "mode": "freelance",
+        "with": "for BAYETAV, EGİAD and innovation clients",
+        "where": ""
+      },
+      "review": {
+        "text": "Since my second year of undergrad, I've been deeply interested in publications. Now, much of my freelance work and design specialization focuses on publication design, where I thrive on meticulous, systematic approaches. This attention to detail has also bolstered my coordination skills.",
+        "written": "2024"
+      },
+      "gallery": []
+    },
+    {
+      "id": "kulturbunker",
+      "title": "Kulturbunker: Gained in Translation",
+      "year": "2024",
+      "lenses": [
+        "research",
+        "art"
+      ],
+      "tag": "Participatory Ethnography",
+      "question": "How do humour and language mixing shape belonging in migrant communities?",
+      "text": "Field observations on humour, language mixing and belonging in migrant communities in Cologne, leading to a concept for an interactive public installation.",
+      "role": "Field research, installation concept",
+      "featured": false,
+      "context_line": "Field research and installation concept, Kulturbunker, Cologne, 2024.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "",
+        "where": "Cologne"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "link",
+          "label": "read the project (Google Drive)",
+          "href": "https://drive.google.com/file/d/1hFc_AQYdka7gHJ6BfgY2yVAeLeHh0H6U/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id": "hasretin-tadi",
+      "title": "Hasretin Tadı — Taste of Longing",
+      "year": "2024",
+      "lenses": [
+        "research",
+        "visual"
+      ],
+      "tag": "Foodscapes Research · Visual Mapping",
+      "question": "PLACEHOLDER — Eylül to write",
+      "text": "PLACEHOLDER",
+      "role": "PLACEHOLDER",
+      "featured": false,
+      "context_line": "PLACEHOLDER: foodscapes research and visual mapping, KISD.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": "KISD, Cologne"
+      },
+      "gallery": []
+    },
+    {
+      "id": "feely-thingies",
+      "title": "Feely Thingies",
+      "year": "2025",
+      "lenses": [
+        "learning",
+        "art"
+      ],
+      "tag": "Tangible Game Design",
+      "question": "How can a game open a reflective moment in a group?",
+      "text": "A storytelling game used in the participatory workshops of The Playground of Inner Things, one of the two modules of the thesis The Institute of Inner Mechanics (with Diego Alatorre Guzmán). The game opens collective reflective moments in creative education.",
+      "role": "PLACEHOLDER: Eylül to confirm her role",
+      "featured": false,
+      "context_line": "A storytelling game for collective reflection, part of the thesis at KISD.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": "KISD, Cologne"
+      },
+      "question_note": "Question drafted by Claude. Eylül to confirm.",
+      "gallery": []
+    },
+    {
+      "id": "fuar-matbaasi",
+      "title": "Fuar Matbaası / Fair Press",
+      "year": "2019",
+      "lenses": [
+        "art",
+        "visual",
+        "research"
+      ],
+      "tag": "Workshop · Letterpress",
+      "question": "How does a personal memory become a collective one?",
+      "text": "An 11-day workshop on İzmir Fair and collective memory. Data visualisation of collected memories, a personal 'memory sentence', and 100 postcards printed with letterpress, linocut and stereotype techniques, exhibited in two municipal exhibitions.",
+      "role": "Participant",
+      "featured": false,
+      "context_line": "An 11-day letterpress workshop in İzmir on the İzmir Fair and collective memory.",
+      "image": "https://static.wixstatic.com/media/5ec39d_6d97ccc50f7a4eccbe81cf4384993e82~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6d97ccc50f7a4eccbe81cf4384993e82.jpg",
+      "credits": {
+        "mode": "workshop",
+        "with": "coordinated by Emre Yıldız, with 5 participants",
+        "where": "Fuar Matbaası, İzmir"
+      },
+      "review": {
+        "text": "This workshop was my first experience with manual craftsmanship, bringing deep fulfillment after 11 sleepless days of disconnecting from digital tools. It honed my artistic skills and provided valuable cultural insights into Izmir.",
+        "written": "2024"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_6d97ccc50f7a4eccbe81cf4384993e82~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6d97ccc50f7a4eccbe81cf4384993e82.jpg",
+              "w": 966,
+              "h": 809
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_557874b10d5845be95a758a5a3f720d4~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_557874b10d5845be95a758a5a3f720d4.jpg",
+              "w": 966,
+              "h": 602
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_02594942e0e649938a8be9740ee0ecd8~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_02594942e0e649938a8be9740ee0ecd8.jpg",
+              "w": 966,
+              "h": 261
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_f0be4beae3b54cd8b757297de8a256c9~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_f0be4beae3b54cd8b757297de8a256c9.jpg",
+              "w": 230,
+              "h": 575
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e0f5f1ac732545678a3d25d6be79fed5~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e0f5f1ac732545678a3d25d6be79fed5.jpg",
+              "w": 294,
+              "h": 575
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_118537587d664a1bb81327b5efabb764~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_118537587d664a1bb81327b5efabb764.jpg",
+              "w": 432,
+              "h": 575
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_6fd3154ee7244fe6b5dc0ace9a48bb92~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6fd3154ee7244fe6b5dc0ace9a48bb92.jpg",
+              "w": 314,
+              "h": 454
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_42cb322343e94a21be1ef92ea3f9e590~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_42cb322343e94a21be1ef92ea3f9e590.jpg",
+              "w": 647,
+              "h": 454
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_1c68cad5d3dd489887df515ade89a097~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_1c68cad5d3dd489887df515ade89a097.jpg",
+              "w": 484,
+              "h": 674
+            },
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_d9be338499f54c0a9739802ab5600717~mv2.png/v1/fit/w_1600,h_4800,q_90,enc_auto/5ec39d_d9be338499f54c0a9739802ab5600717.jpg",
+              "w": 477,
+              "h": 674
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5e9f92c1476f482aa392122b57f772cf~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5e9f92c1476f482aa392122b57f772cf.jpg",
+              "w": 309,
+              "h": 412
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_9ff98faee12b472981807f11c29c7426~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_9ff98faee12b472981807f11c29c7426.jpg",
+              "w": 652,
+              "h": 412
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abacioglu",
+      "title": "Abacıoğlu Han",
+      "year": "2019",
+      "lenses": [
+        "research",
+        "systems"
+      ],
+      "tag": "Design Research · Cultural Probes",
+      "question": "What can a historic inn tell you if you stay long enough?",
+      "text": "Fieldwork in an İzmir han: observation, interviews, surveys, archival research. A research booklet with texture and typography analysis, HMW questions and a service blueprint, plus a cultural probes box.",
+      "role": "Team project (with Zeynep Güneş Acar)",
+      "featured": false,
+      "context_line": "Design Methodologies course at Yaşar University, set in İzmir's Kemeraltı.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "This course and project sparked my passion for design methodologies and research-driven approaches. I observed the space extensively, transitioning from research to project implementation, a process I now apply at Bayetav Art, making it an enlightening experience.",
+        "written": "2024"
+      },
+      "gallery": [],
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://heyzine.com/flip-book/b0e40a860f.html",
+          "w": 952,
+          "h": 714
+        }
+      ]
+    },
+    {
+      "id": "fake-news-mystery",
+      "title": "The Fake News Mystery",
+      "year": "2024",
+      "lenses": [
+        "systems",
+        "learning",
+        "visual"
+      ],
+      "tag": "Systemic Service Design · KISD",
+      "question": "What does trustworthy news look like in 2040?",
+      "text": "By 2040, fake news and information bubbles dominate and traditional media is losing relevance. As the innovation team of a media corporation, we reimagined the future of news and a strategy for trustworthy journalism. Our answer: an interactive media literacy detective play kit for children, tangible and digital, distributed through health insurance companies and designed to promote critical thinking through play. Methods included opportunity framing, influence loops, a client journey and a north star metric.",
+      "role": "Team project with Annika, Griet and Philline",
+      "featured": false,
+      "image": "",
+      "context_line": "Short-term project in Designing Services through a Systemic Perspective, KISD, 2024.",
+      "credits": {
+        "mode": "team",
+        "with": "with Annika, Griet and Philline",
+        "where": "KISD, TH Köln"
+      },
+      "gallery": []
+    },
+    {
+      "id": "urla-design-library",
+      "title": "Urla Design Library",
+      "year": "2020–2021",
+      "lenses": [
+        "visual",
+        "research"
+      ],
+      "tag": "Concept & Visual Identity",
+      "question": "How can a 500-year-old school building become a library where ideas never stop moving?",
+      "context_line": "Visual identity for Urla Design Library, in a restored 16th-century Ottoman primary school. Yaşar University, VCDS 4101.",
+      "text": "Urla Design Library lives in a stone building with a dome, once an Ottoman primary school, restored by Prof. Dr. Tevfik Balcıoğlu. Through research and a research booklet on the library and Ottoman primary schools, the concept of udl took shape: a social, active, productive place where thoughts are constantly passed on. The motto \"thoughts through arches\" plays on \"through ages\": the arches of the building become the visual system, standing side by side like the people they connect.",
+      "role": "Research, concept, visual identity, stationery, research booklet, web mock-up",
+      "featured": true,
+      "gallery": [],
+      "review": {
+        "text": "This project was completed during the COVID-19 lockdown, making it a remote endeavor conducted without seeing the physical space. Looking back from the present, I wish I had the opportunity to engage with people on-site and observe the space firsthand to enhance the research booklet comprehensively.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "solo",
+        "with": "",
+        "where": "Yaşar University, İzmir"
+      },
+      "image": "https://static.wixstatic.com/media/5ec39d_5a636d3f36fd41beaaa63933fffcc669~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5a636d3f36fd41beaaa63933fffcc669.jpg",
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5a636d3f36fd41beaaa63933fffcc669~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5a636d3f36fd41beaaa63933fffcc669.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_d2f2f62cc5f24d8db057a0dd51706c11~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_d2f2f62cc5f24d8db057a0dd51706c11.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_06db0e78079840a582065e56781dfcfa~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_06db0e78079840a582065e56781dfcfa.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_56c349e9c01d4e4085b70768d01deb78~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_56c349e9c01d4e4085b70768d01deb78.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_18406f1be931417bbe1d73bf19af21c3~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_18406f1be931417bbe1d73bf19af21c3.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_c1a87222fc104d8ba561aa4821c0d749~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_c1a87222fc104d8ba561aa4821c0d749.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_58768d88f895485a8652e7ad07be3020~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_58768d88f895485a8652e7ad07be3020.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_665d6c40e21e4a3ca9a37f974058029f~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_665d6c40e21e4a3ca9a37f974058029f.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5afc7ec88ce44b08be29b904129817c9~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5afc7ec88ce44b08be29b904129817c9.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_bda2c5a31b37450bb8b8d4c4b390d408~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_bda2c5a31b37450bb8b8d4c4b390d408.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_cf15ec0c61c84df68339a52122006457~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_cf15ec0c61c84df68339a52122006457.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5481709a0b084fd182a47182ec19c5f0~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5481709a0b084fd182a47182ec19c5f0.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_afcc638df4b945e7879c15d3f751253b~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_afcc638df4b945e7879c15d3f751253b.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5860a8fc45b5452690b40083fa223495~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5860a8fc45b5452690b40083fa223495.jpg",
+              "w": 980,
+              "h": 908
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_66bcf58fad5641ea92cb862efdb4ae82~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_66bcf58fad5641ea92cb862efdb4ae82.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_ea776846eed44a94a83aa2f40002f716~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_ea776846eed44a94a83aa2f40002f716.jpg",
+              "w": 484,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_327c82add11541af91431ff56cfff7fc~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_327c82add11541af91431ff56cfff7fc.jpg",
+              "w": 486,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e88c13345ebe495abff4cbe57b3ef256~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e88c13345ebe495abff4cbe57b3ef256.jpg",
+              "w": 484,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_2a9d071881934976a603ca3105d4d844~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_2a9d071881934976a603ca3105d4d844.jpg",
+              "w": 486,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_977a7473a29b470195f920a92477c217~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_977a7473a29b470195f920a92477c217.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_0b0e7ffc124442f4ab755760ecbb3bee~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_0b0e7ffc124442f4ab755760ecbb3bee.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_7d7b624d3d014c6eab0dfdfd9d1e8391~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_7d7b624d3d014c6eab0dfdfd9d1e8391.jpg",
+              "w": 484,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_f39ed97901594e5ebb3e91a79f01cba9f003.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_f39ed97901594e5ebb3e91a79f01cba9f003.jpg.jpg",
+              "w": 486,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_fbc85462830c470bb8b201df82e280dc~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_fbc85462830c470bb8b201df82e280dc.jpg",
+              "w": 484,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_53b1a53f94014a2e8c1d800b10183ebd~mv2.gif/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_53b1a53f94014a2e8c1d800b10183ebd.jpg",
+              "w": 486,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_dfbc1b57f44c4bd1b6fa6222e93d6e31~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_dfbc1b57f44c4bd1b6fa6222e93d6e31.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e787f5a37f364bc6a54000f8b7815b8a~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e787f5a37f364bc6a54000f8b7815b8a.jpg",
+              "w": 429,
+              "h": 323
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5869b457ac5e4845b5b934f34004bb6d~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5869b457ac5e4845b5b934f34004bb6d.jpg",
+              "w": 268,
+              "h": 148
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_830d3cb2cf024eb2b02a0c07eb57aecf~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_830d3cb2cf024eb2b02a0c07eb57aecf.jpg",
+              "w": 263,
+              "h": 148
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_c8299bb718c349cc8859d3783a2c5169~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_c8299bb718c349cc8859d3783a2c5169.jpg",
+              "w": 541,
+              "h": 301
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e87ebd19a048416ab1d4f8b81d651e2c~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e87ebd19a048416ab1d4f8b81d651e2c.jpg",
+              "w": 196,
+              "h": 126
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_92768a92fdc04f6b8f06e12a0226052e~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_92768a92fdc04f6b8f06e12a0226052e.jpg",
+              "w": 223,
+              "h": 126
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_d8e1444d41bf41efbf6248bb8e6002ea~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_d8e1444d41bf41efbf6248bb8e6002ea.jpg",
+              "w": 484,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_1fa6ea9563fc4f15a0df6a459c947683~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_1fa6ea9563fc4f15a0df6a459c947683.jpg",
+              "w": 486,
+              "h": 273
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_3826023b5de2409286034569591f4aa7f003.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_3826023b5de2409286034569591f4aa7f003.jpg.jpg",
+              "w": 980,
+              "h": 553
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apikam",
+      "title": "Apikam Online Museum",
+      "year": "2020",
+      "lenses": [
+        "learning",
+        "visual",
+        "research"
+      ],
+      "tag": "Experience Design · Serious Game",
+      "question": "What if an online museum adapted its story to the person visiting it?",
+      "context_line": "An online transportation museum for İzmir's Apikam City Archive, with İzmir Municipality. Yaşar University, VCDS 3102.",
+      "text": "A social, sharable and customisable interactive experience: a serious game with a historical narrative generated according to the visitor's personality type, cognitive style and visitor type. It grew out of a deep analysis of well-known online museums, comparative analysis, a 2x2 matrix, five article analyses and surveys with people from İzmir. Selected projects, including this one, were exhibited at Good Design.",
+      "role": "Research, experience design, interface design",
+      "featured": true,
+      "review": {
+        "text": "This project was truly the first one to emerge entirely from research, which was a fascinating process for me. I delved so deeply into research that I ended up postponing the implementation phase of the project. I don't want to view this as a negative, but if I were to redo it, I would plan to balance research with reaching conclusions.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "solo",
+        "with": "with İzmir Municipality Apikam City Archive",
+        "where": "Yaşar University, İzmir"
+      },
+      "image": "https://static.wixstatic.com/media/5ec39d_e1f9dd6794654b96bf410754acdb1d7e~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e1f9dd6794654b96bf410754acdb1d7e.jpg",
+      "gallery": [],
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e1f9dd6794654b96bf410754acdb1d7e~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e1f9dd6794654b96bf410754acdb1d7e.jpg",
+              "w": 980,
+              "h": 452
+            }
+          ]
+        },
+        {
+          "type": "link",
+          "label": "see the full project on Behance",
+          "href": "https://www.behance.net/gallery/130191311/Online-Museum-Experience-for-Izmir-City-Archive"
+        }
+      ]
+    },
+    {
+      "id": "diffilterly",
+      "title": "Diffilterly",
+      "year": "2019",
+      "lenses": [
+        "art",
+        "visual",
+        "learning"
+      ],
+      "tag": "Toy Design & Brand Identity",
+      "question": "Can a toy be genderless, anti-bully and eco-friendly at the same time?",
+      "context_line": "A cardboard toy for 8 to 12 year olds. Yaşar University, VCDS 2252 Creative Thinking in Design.",
+      "text": "Research and a persona showed that children aged 8 to 12 want to create, combine, collect and share, and to carry what they make. Diffilterly lets them do all of it. Laser-cut cardboard keeps it neutral and ecological; a Cubism-inspired style stands for embracing all people. A metal plate holds magnetic pieces and the top works as a canvas. The name comes from different + filter; the logo's eye, the most genderless feature of the body, wears differently coloured lashes.",
+      "role": "Research, persona, product and brand design (team project)",
+      "featured": true,
+      "gallery": [],
+      "review": {
+        "text": "This project's social insight was invaluable to me. Though not explicitly stated in the brief, I focused on social and innovative elements in my designs, showcasing my respect for diversity. It also enhanced my product design skills and sparked a passion for material experimentation.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "team",
+        "with": "with Merve Topay",
+        "where": "Yaşar University, İzmir"
+      },
+      "image": "https://static.wixstatic.com/media/5ec39d_e02b5fc815ca4795ae7b06c69e55d874~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e02b5fc815ca4795ae7b06c69e55d874.jpg",
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e02b5fc815ca4795ae7b06c69e55d874~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e02b5fc815ca4795ae7b06c69e55d874.jpg",
+              "w": 978,
+              "h": 550
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_5101b820123b485f871850911cbb58d6~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_5101b820123b485f871850911cbb58d6.jpg",
+              "w": 978,
+              "h": 550
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_0e5b3bbbedc94de29ecb90eb19b24e40~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_0e5b3bbbedc94de29ecb90eb19b24e40.jpg",
+              "w": 976,
+              "h": 549
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_50057b298b4743b085bd1ee34896c1cf~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_50057b298b4743b085bd1ee34896c1cf.jpg",
+              "w": 976,
+              "h": 549
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e15bdc7e386e4318bbe5de5cb6085513~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e15bdc7e386e4318bbe5de5cb6085513.jpg",
+              "w": 974,
+              "h": 548
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_e4b878deafeb4a1cab319aa3072c389d~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_e4b878deafeb4a1cab319aa3072c389d.jpg",
+              "w": 974,
+              "h": 548
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_6e423faa01cc49de9938bba9d56026c1~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6e423faa01cc49de9938bba9d56026c1.jpg",
+              "w": 985,
+              "h": 554
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_4181fca9ecc74d83bc9828612e181166~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_4181fca9ecc74d83bc9828612e181166.jpg",
+              "w": 983,
+              "h": 553
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_107204327de3436abc462b687508692e~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_107204327de3436abc462b687508692e.jpg",
+              "w": 981,
+              "h": 552
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_1a8ca2964abf4c2389a118587d1052ae~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_1a8ca2964abf4c2389a118587d1052ae.jpg",
+              "w": 600,
+              "h": 338
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contact-archive",
+      "title": "Contact Film Festival Archive",
+      "year": "2019",
+      "lenses": [
+        "visual",
+        "research"
+      ],
+      "tag": "UI/UX · Accessibility",
+      "question": "How can a film archive be explored by someone who cannot see the screen?",
+      "context_line": "A blind-friendly, sound-based kiosk archive for Contact Film Festival at Yaşar University. VCDS 3101.",
+      "text": "A research-driven, blind-friendly, sound-based interactive kiosk interface for the international Contact Film Festival. Its cyberpunk lens reflects the festival's young audience; users explore the archive with different filters on a large screen. Comparative research, a 2x2 matrix, a provisional persona and accessibility research, together with creative sound design, made it a blind-friendly interface.",
+      "role": "UX research, interface and sound design (team project)",
+      "featured": false,
+      "review": {
+        "text": "In this project, while not initially focused on accessibility, I deliberately integrated it, marking my first foray into the field. Deciphering complex information was developmental, but if I were to redo it for the visually impaired today, I would opt for a more minimalistic approach.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "team",
+        "with": "with Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      },
+      "image": "",
+      "gallery": [],
+      "flow": [
+        {
+          "type": "video",
+          "src": "https://video.wixstatic.com/video/5ec39d_8eafdf8879a3433cb96c6c444085850a/1080p/mp4/file.mp4",
+          "w": 694,
+          "h": 391
+        },
+        {
+          "type": "video",
+          "src": "https://video.wixstatic.com/video/5ec39d_b058e91d76a342c7b558edc5868f3c92/1080p/mp4/file.mp4",
+          "w": 701,
+          "h": 391
+        },
+        {
+          "type": "link",
+          "label": "see the project on Behance",
+          "href": "https://www.behance.net/gallery/87734285/Contact-Film-Festival-Archive-Kiosk-Interface-Design"
+        }
+      ]
+    },
+    {
+      "id": "whh0",
+      "title": "wHH0",
+      "year": "2020",
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "tag": "Game Design Concept",
+      "question": "What would a game look like if you could only keep walking?",
+      "context_line": "A story-driven platform game concept. Yaşar University, VCDS 3102.",
+      "text": "wHH0 allegorically handles self, alienation, depersonalisation, derealisation and climate change. Waking up in a hot, dry world, wHH0 hides from the Unaware DROs and sets off towards HusHHusH with the resistance network of Aware DROs. wHH0 cannot jump, run or fight: it has to stay hidden, silent and keep walking through heat loss and self-alienation. No menus, no inventory bars, no score. You walk, and you don't give up.",
+      "role": "Story, world and visual concept (team project)",
+      "featured": false,
+      "image": "https://static.wixstatic.com/media/5ec39d_22bef85f7c0e4084a6b66f19b12cf1d4~mv2.png/v1/fit/w_1400,h_1400,q_80,enc_auto/image.jpg",
+      "gallery": [
+        "https://static.wixstatic.com/media/5ec39d_b460cfbbea304581815b67ac0f4675c7~mv2.png/v1/fit/w_1400,h_1400,q_80,enc_auto/image.jpg",
+        "https://static.wixstatic.com/media/5ec39d_dd4d6039eb9b46f9bc0538ddd8d3ae4f~mv2.png/v1/fit/w_1400,h_1400,q_80,enc_auto/image.jpg"
+      ],
+      "credits": {
+        "mode": "team",
+        "with": "with Merve Topay & Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      }
+    },
+    {
+      "id": "f-fanzine",
+      "title": "F Fanzine",
+      "year": "2019",
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "tag": "Fanzine Design · Binding",
+      "question": "What does it feel like to never quite fit the box you are given?",
+      "context_line": "Ata Kam's fanzine workshop in the scope of F Project, on \"being a copy\", using photocopy.",
+      "text": "The glitches that photocopying brings to my long-distance bus tickets became the material: data that never fits its sections, like the student passenger who never finds her place. Those were my tickets, from years of travelling between Milas, Söke and İzmir. The zoomed glitches were sorted by kind and stapled to feel like a ticket, and the fanzine was bound with a Japanese stitch taught by Ata Kam. Exhibited in Diyarbakır, Ankara and İzmir.",
+      "role": "Concept, photocopy imagery, binding",
+      "featured": false,
+      "gallery": [],
+      "review": {
+        "text": "In this workshop, I initially created from a deeply personal perspective, but upon reflection, I realized my artistry leans towards socially grounded works, making my initial attempts feel overly personal in hindsight.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "workshop",
+        "with": "with Ata Kam, coord. Umut Altıntaş",
+        "where": "Hayy Open Space, İzmir"
+      },
+      "image": "https://static.wixstatic.com/media/5ec39d_df1474a474f74b95a7aef4e8d640d95c~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_df1474a474f74b95a7aef4e8d640d95c.jpg",
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_df1474a474f74b95a7aef4e8d640d95c~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_df1474a474f74b95a7aef4e8d640d95c.jpg",
+              "w": 280,
+              "h": 374
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_402a026bda8a4b91a0a77da52ea82398~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_402a026bda8a4b91a0a77da52ea82398.jpg",
+              "w": 478,
+              "h": 374
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_1ce7820b4ecc418890878c3a995c5749~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_1ce7820b4ecc418890878c3a995c5749.jpg",
+              "w": 438,
+              "h": 374
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_bb06ddbbfa134545b2ebc69aa64020db~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_bb06ddbbfa134545b2ebc69aa64020db.jpg",
+              "w": 462,
+              "h": 331
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_f9e1bcd6418e463f84168c7b4c295c67~mv2.jpg/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_f9e1bcd6418e463f84168c7b4c295c67.jpg",
+              "w": 434,
+              "h": 331
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_2428e3f74c914b71be0fc6abaf13c631~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_2428e3f74c914b71be0fc6abaf13c631.jpg",
+              "w": 300,
+              "h": 331
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_84de6d79d4724321b9377774d3af6e8d~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_84de6d79d4724321b9377774d3af6e8d.jpg",
+              "w": 407,
+              "h": 427
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_9e0d9b8c27a349f48d29995ae76a4b1f~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_9e0d9b8c27a349f48d29995ae76a4b1f.jpg",
+              "w": 411,
+              "h": 427
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_fc1ed589efdc4c99a29953721f0b387c~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_fc1ed589efdc4c99a29953721f0b387c.jpg",
+              "w": 378,
+              "h": 427
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kemeralti",
+      "title": "Kemeraltı Dictionary",
+      "year": "2018",
+      "lenses": [
+        "research",
+        "art",
+        "visual"
+      ],
+      "tag": "Field Research · Graphic Design",
+      "question": "What does the street language of a bazaar say about the people who write it?",
+      "context_line": "A process-oriented workshop on oral culture in İzmir's Kemeraltı Bazaar, Good Design 2018.",
+      "text": "We spent a whole day in Kemeraltı Bazaar, photographing everything, talking with people and exploring places and objects. A pattern appeared in the written language of the shops: ironic, surreal sentences on banners, with spelling mistakes and imperative forms. We collected them, chose the ones that best carry the bazaar's culture, and turned them into stickers with a young visual language.",
+      "role": "Field research, typography, sticker design (collective workshop)",
+      "featured": false,
+      "review": {
+        "text": "This workshop introduced me to Izmir's cultural hub for the first time, highlighting my interest in oral culture. All projects were co-created, and the workshop's fluid flow greatly influenced my approach and focus.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "workshop",
+        "with": "coord. Bahar Emgin & Metehan Özcan",
+        "where": "Good Design, İzmir"
+      },
+      "image": "",
+      "gallery": []
+    },
+    {
+      "id": "spring-guide",
+      "title": "SPRING Innovation Guide",
+      "year": "2021–2022",
+      "lenses": [
+        "visual"
+      ],
+      "tag": "Editorial Design",
+      "question": "How do you draw innovation as a process, not a lightbulb?",
+      "context_line": "A guide book based on Selçuk Karaata's translation of the SPRING Singapore Innovation Excellence Guide.",
+      "text": "The guide was re-edited, designed and printed as a book. Each category (leadership, planning, knowledge, people, process, outcomes) got its own abstract emblem, and the emblems change step by step in form and colour to show innovation as development. A palette from grey to green, with gradients, treats innovation and growth as fluid processes.",
+      "role": "Editorial design, emblem system, print",
+      "featured": false,
+      "image": "https://static.wixstatic.com/media/5ec39d_7fce9b7bb657417ebc9ee5542b25a915~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_7fce9b7bb657417ebc9ee5542b25a915.jpg",
+      "gallery": [],
+      "credits": {
+        "mode": "freelance",
+        "with": "for Selçuk Karaata",
+        "where": ""
+      },
+      "flow": [
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_7fce9b7bb657417ebc9ee5542b25a915~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_7fce9b7bb657417ebc9ee5542b25a915.jpg",
+              "w": 603,
+              "h": 399
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_fb8eb761bfee42c99666b6964b78fd28~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_fb8eb761bfee42c99666b6964b78fd28.jpg",
+              "w": 603,
+              "h": 399
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_703b332710394d929c3ae8a8bff3ded4~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_703b332710394d929c3ae8a8bff3ded4.jpg",
+              "w": 616,
+              "h": 391
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_10b760c409cf44d18702b17600b5d417~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_10b760c409cf44d18702b17600b5d417.jpg",
+              "w": 590,
+              "h": 391
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_f506e890a8c647c38e219298689b11e7~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_f506e890a8c647c38e219298689b11e7.jpg",
+              "w": 603,
+              "h": 399
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_c9981aa1d95e47e3969fe7e32a525204~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_c9981aa1d95e47e3969fe7e32a525204.jpg",
+              "w": 603,
+              "h": 399
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_6a0b106cc7494989aaa9a0c7f8e61d06~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_6a0b106cc7494989aaa9a0c7f8e61d06.jpg",
+              "w": 612,
+              "h": 394
+            }
+          ]
+        },
+        {
+          "type": "images",
+          "items": [
+            {
+              "src": "https://static.wixstatic.com/media/5ec39d_ef6f50416f164d34948daf7c2d22a80f~mv2.png/v1/fit/w_2200,h_6600,q_90,enc_auto/5ec39d_ef6f50416f164d34948daf7c2d22a80f.jpg",
+              "w": 594,
+              "h": 394
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "branding-web",
+      "title": "Identities & Websites",
+      "year": "2023–2024",
+      "lenses": [
+        "visual",
+        "systems"
+      ],
+      "tag": "Branding · Web Design",
+      "question": "How can an organisation's identity keep working after the designer leaves?",
+      "context_line": "Branding and websites for Öncü Academy, Afacan youth centre, Peninsula Global, Hatay İçin Buradayız and more.",
+      "text": "Integrating branding and website design is one of my main focuses as a visual communication designer. I aim for minimal, accessible designs and give clients customer-centric systems they can keep using in the future. Branding for Pati, GİY, Öncü Academy, Afacan and the Design and Authority Symposium; websites for oncuacademy.com, hatayicinburadayiz.com, peninsula-gtc.com and afacan.de.",
+      "role": "Branding, web design",
+      "featured": false,
+      "review": {
+        "text": "Crafting organizational branding and websites is a passion of mine, as they serve as vital elements in expressing and forming the system. I especially enjoy developing them with a focus on both developmental and communicative aspects.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "freelance",
+        "with": "",
+        "where": ""
+      },
+      "image": "",
+      "gallery": []
+    },
+    {
+      "id": "data-visualisation",
+      "title": "Data Visualisation",
+      "year": "2021–2024",
+      "lenses": [
+        "visual",
+        "research",
+        "systems"
+      ],
+      "tag": "Information Design",
+      "question": "How do you make a complex argument visible at a glance?",
+      "context_line": "Including \"The DNA of Turnaround\", a figure for an article published by the Academy of Management.",
+      "text": "Refining complex data and information into a clear form: presentations, custom visualisations for articles, report graphics and restructured spreadsheets. \"The DNA of Turnaround\" visualises an organisational turnaround as a sequence of reminders, pressures and calls between stability and change, for Prof. Oğuz Babüroğlu and Alperen Manisalıgil.",
+      "role": "Information design, data visualisation",
+      "featured": false,
+      "review": {
+        "text": "My clients, especially in business and management, trust my ability to understand complex topics and communicate them visually. Using data visualization has not only been a passion but has also sharpened my analytical thinking skills.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "freelance",
+        "with": "for Prof. Oğuz Babüroğlu & Alperen Manisalıgil, and others",
+        "where": ""
+      },
+      "image": "",
+      "gallery": []
+    },
+    {
+      "id": "bachelor-writings",
+      "title": "Bachelor Writings",
+      "year": "2017–2021",
+      "lenses": [
+        "research"
+      ],
+      "tag": "Essays · Cultural Studies",
+      "question": "What did she write about while learning to design?",
+      "context_line": "Essays written during her bachelor's in visual communication design at Yaşar University.",
+      "text": "A booklet of essays from her bachelor's years, on modernism and postmodernism, cultural studies, consumer culture, mass media and the public sphere, and design's relationship with art and society. Read it in the flipbook below.",
+      "role": "Writing",
+      "featured": false,
+      "image": "",
+      "gallery": [],
+      "credits": {
+        "mode": "solo",
+        "with": "",
+        "where": "Yaşar University, İzmir"
+      },
+      "flow": [
+        {
+          "type": "embed",
+          "src": "https://cdn.flipsnack.com/widget/v2/widget.html?hash=dklbj55hp8",
+          "w": 957,
+          "h": 421
+        },
+        {
+          "type": "link",
+          "label": "download the writings booklet (Google Drive)",
+          "href": "https://drive.google.com/file/d/1nHvD_WOZxbIwrcqW73Uhfdv6UrXrbDWq/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "id": "ankara-balconies",
+      "title": "Balcony Balustrades of Ankara",
+      "year": "2021–2022",
+      "lenses": [
+        "research",
+        "visual"
+      ],
+      "tag": "Scientific Research Project · Interaction Design · Exhibition",
+      "question": "How can digital tools help us see, compare and keep an architectural heritage that is disappearing?",
+      "context_line": "Interactive Digital Exhibits to Experience Architectural Heritage: The Case of Balcony Balustrades of Ankara (1950–1975). A Yaşar University scientific research project (BAP086), exhibited at the İzmir Architecture Center, 5–28 July 2021.",
+      "text": "A scientific research project at the meeting point of architectural history and interaction design. Balcony balustrades are one of the most visible elements of Ankara's modern apartment architecture between 1950 and 1975, yet they are scattered across the city, rarely seen side by side, and disappear quickly as the urban fabric changes. The project documented a collection of around 2,000 balustrades, mapped them to their locations and turned the collection into an interactive digital exhibit, so that people could explore, filter and compare them.",
+      "role": "Interface design, exhibition setup, photography and video, social media",
+      "featured": false,
+      "image": "embedded:ak-cover",
+      "gallery": [],
+      "review": {
+        "text": "I contributed to this project during the exhibition setup, managing the UI/UX and social media aspects. It was one of my first experiences with exhibition installation, providing an opportunity to apply my knowledge in interaction design to reality.",
+        "written": "2024"
+      },
+      "credits": {
+        "mode": "team",
+        "with": "coord. Assoc. Prof. Zeynep Tuna Ultav, with Daniele Savasta and Gökhan Keskin",
+        "where": "Yaşar University · İzmir Architecture Center"
+      },
+      "flow": [
+        {
+          "type": "marquee",
+          "items": [
+            "embedded:ak-1",
+            "embedded:ak-3",
+            "embedded:ak-6",
+            "embedded:ak-4",
+            "embedded:ak-8",
+            "embedded:ak-9",
+            "embedded:ak-7",
+            "embedded:ak-5",
+            "embedded:ak-10",
+            "embedded:ak-11"
+          ],
+          "credit": "Research, app and exhibition, 2021"
+        }
+      ],
+      "bullets": {
+        "title": "what I did",
+        "items": [
+          "Designed the interface of the interactive database app that visitors used on their phones to explore the collection and control the projected exhibition map, under the supervision of Daniele Savasta.",
+          "Took part in setting up the exhibition at the İzmir Architecture Center: the floor map, the QR codes and the exhibition graphics.",
+          "Photographed and filmed the opening of the exhibition.",
+          "Edited the project trailer and the thumbnails of the interview series.",
+          "Designed and managed the project's social media."
+        ]
+      },
+      "sections": [
+        {
+          "title": "the research",
+          "text": "The project treats balcony balustrades as architectural ephemera: elements we usually see as lasting, yet in a rapidly transforming city they vanish within a short time, together with the memories and socio-cultural references they carry. Photographing, classifying and mapping the balustrades preserves them as a digital collection and makes their role in shaping the image of neighbourhoods visible."
+        },
+        {
+          "title": "from collection to data",
+          "text": "The balustrades were photographed across Ankara's neighbourhoods and classified by region, neighbourhood and category. The data were first mapped to their geographical positions with geojson, which was then used to view and filter the collection, and illustrated as a typology of balustrade drawings."
+        },
+        {
+          "title": "the app and the exhibition",
+          "text": "In the exhibition, a map of Ankara's neighbourhoods was taped onto the floor with QR codes for the balustrades, and a large projection showed the collection on the city map. Visitors used a mobile web app to browse regions, neighbourhoods, categories and illustrations, and their choices appeared on the projection."
+        },
+        {
+          "title": "publication",
+          "text": "The project was presented in the paper \"Visualizing Architectural Ephemera: The Case of Ankara Balcony Balustrades 1950–75\" at the Sixteenth International Conference on Design Principles & Practices (19–21 January 2022, University of Newcastle, Australia). It discusses how a digital collection is translated into a computational interface for studying collections, called Grouper, through a speculative realism lens.",
+          "flow": [
+            {
+              "type": "link",
+              "label": "open the project catalogue (PDF)",
+              "href": "https://www.ankarabalkonkorkuluklari.org/assets/abk5075_catalogue.pdf"
+            },
+            {
+              "type": "link",
+              "label": "visit ankarabalkonkorkuluklari.org",
+              "href": "https://www.ankarabalkonkorkuluklari.org/"
+            }
+          ]
+        },
+        {
+          "title": "trailer",
+          "flow": [
+            {
+              "type": "embed",
+              "src": "https://www.youtube.com/embed/rvrkc-Jd7Bg?autoplay=1&mute=1&loop=1&playlist=rvrkc-Jd7Bg&playsinline=1",
+              "w": 16,
+              "h": 9,
+              "label": "project trailer"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ui": {
+    "title": "versions of eylosh",
+    "intro_hint": "scroll ↓",
+    "history_title": "trajectory",
+    "history_sub": "",
+    "works_title": "work at the intersections",
+    "index_title": "index",
+    "index_sub": "everything creative.",
+    "threads_title": "versions over time",
+    "threads_hint": "the areas of life each period touched",
+    "scroll_hint_desktop": "keep scrolling ↓ to travel through time →",
+    "scroll_hint_mobile": "swipe up to travel through time →",
+    "index_preview_count": "12",
+    "index_all": "see the whole index",
+    "contact_title": "contact eylosh",
+    "contact_sub": "open to research, project collaborations, research positions and residencies.",
+    "lane_label": "",
+    "story_none": "pick a version above: its row lights up, and its story appears here.",
+    "index_legend": "the icons show which versions each work belongs to. hover them.",
+    "cv_title": "cv",
+    "station_title": "version station",
+    "station_sub": "pick one or more versions, or drag them into the ring. the site shows you that side of her work.",
+    "station_empty": "pick a version",
+    "station_drop": "drop here",
+    "station_tip": "click to select · drag into the ring to mix · drag out to remove",
+    "portfolio_line": "the portfolio of eylem eylül acarsoy. designer and design researcher, cologne."
+  },
+  "stories": {
+    "systems": {
+      "text": "eylül learned systems by running them. with ARAMA she coordinated {{giy|GİY}}, an education platform for students; at {{bayetav|BAYETAV Art}} she went from running events to shaping how the whole space worked. now she maps learning paths into a tool at the university of wuppertal: {{lernpfad|Lernpfad-Designer}}.",
+      "works": [
+        "giy",
+        "bayetav",
+        "cologne",
+        "lernpfad"
+      ]
+    },
+    "learning": {
+      "text": "it started with a course in applied drama: learning by doing. at {{giy|GİY}} she designed learning materials and workshops for students, and her thesis {{inner-mechanics|the institute of inner mechanics}} asks how creative education can make room for introspection. today she builds {{lernpfad|Lernpfad-Designer}} at the university of wuppertal.",
+      "works": [
+        "giy",
+        "inner-mechanics",
+        "lernpfad",
+        "fake-news-mystery"
+      ]
+    },
+    "visual": {
+      "text": "visual communication design was her first language, and she still speaks it every day. since 2019 she has designed identities, publications and websites as a freelancer, and the {{publications|reports and books}} of BAYETAV. her way of working: understanding complexity → structuring ideas → visualizing clarity.",
+      "works": [
+        "publications",
+        "giy",
+        "motif",
+        "so-fi"
+      ]
+    },
+    "art": {
+      "text": "she makes things by hand, usually with others: letterpress at {{fuar-matbaasi|Fuar Matbaası}}, an installation like {{motif|Motif}}, exhibitions at BAYETAV Art. today her small studio is at the Hidden Agenda Collective, among artists and designers from many fields. at KISD she builds speculative worlds, like {{inner-mechanics|a fictional institute}}.",
+      "works": [
+        "motif",
+        "inner-mechanics",
+        "fuar-matbaasi",
+        "memo"
+      ]
+    },
+    "research": {
+      "text": "cultural studies came first, then fieldwork in places like {{abacioglu|Abacıoğlu Han}}, then a few years of sociology. at KISD she studies how people trust public data in {{cologne|Customer Centers of the Future}} and how education feels from the inside in {{refinding-kisd|Refin(d)ing KISD}}. for her, data is never just technical: it is cultural, emotional and human.",
+      "works": [
+        "inner-mechanics",
+        "cologne",
+        "refinding-kisd",
+        "abacioglu"
+      ]
+    }
+  },
+  "approach": {
+    "title": "how she works",
+    "sub": "keep scrolling. she walks around a project before she touches it.",
+    "outro": "then the loop starts again.",
+    "steps": [
+      {
+        "word": "critical",
+        "label": "critical",
+        "prop": "question",
+        "text": "first, she asks why it is like this, and who decided that it should be.",
+        "gloss": "asks why"
+      },
+      {
+        "word": "speculative",
+        "label": "speculative",
+        "prop": "bulb",
+        "text": "then she imagines it otherwise. what if?",
+        "gloss": "imagines otherwise"
+      },
+      {
+        "word": "empathetic",
+        "label": "empathetic",
+        "prop": "heart",
+        "text": "she listens to the people it is for, before she draws anything.",
+        "gloss": "listens first"
+      },
+      {
+        "word": "hands-on",
+        "label": "hands-on",
+        "prop": "wrench",
+        "text": "she makes it real and tests it with real people, in real places.",
+        "gloss": "tests with real people"
+      },
+      {
+        "word": "detail-|oriented",
+        "label": "detail-oriented",
+        "prop": "magnifier",
+        "text": "she goes through every detail, and weaves it back together.",
+        "gloss": "goes through every detail"
+      },
+      {
+        "word": "honest",
+        "label": "honest",
+        "prop": "eye",
+        "text": "she shows what happened, including what did not work.",
+        "gloss": "shows what didn't work"
+      }
+    ],
+    "summary": "six ways of looking, one project at a time."
+  },
+  "cv": {
+    "bio": "Eylem Eylül Acarsoy is a transdisciplinary researcher and designer exploring how identity, expression, and introspection are shaped within societal and institutional structures. With a background in visual communication, ranging from editorial and exhibition design to social media and digital platforms, she brings a holistic and systemic approach to design. Her experience spans managing cultural and educational institutions, facilitating participatory formats, and building archives and communication strategies across art, research, and organizational contexts. She is deeply curious about the ways people connect, learn, and transform together, and often finds herself nourished by the dynamics of community, collaboration, and shared rituals. She asks a lot of questions, laughs a lot, and is happiest when a room full of people starts making something together.",
+    "based": "Cologne, Germany",
+    "sections": [
+      {
+        "title": "Work experience",
+        "items": [
+          {
+            "date": "01/2026 – now",
+            "title": "Research Assistant (WHK)",
+            "org": "Bergische Universität Wuppertal · DigiPath Pro",
+            "text": "Supporting the DigiPath Pro project, which develops digital teaching and learning concepts for vocational education in the construction industry. Concept, design and development of Lernpfad-Designer."
+          },
+          {
+            "date": "05/2023 – 07/2024",
+            "title": "Design and Experience Strategist · Venue and Events Manager",
+            "org": "BAYETAV Art (We Live Together Education and Social Sciences Foundation Art Space), İzmir",
+            "text": "Co-coordination and facilitation of exhibitions; event design and organisation (workshops, talks, performances); social media coordination and design; communication facilitation; stage and sound design; event and exhibition photography and video; research, data management and archiving; people management; exhibition guidance; editorial design of research reports and exhibition books."
+          },
+          {
+            "date": "09/2019 – now",
+            "title": "Freelance Visual Communication Designer",
+            "org": "Self-employed",
+            "text": "Editorial, web, identity, motion and UI/UX design, branding, social media coordination and design."
+          },
+          {
+            "date": "07/2021 – 06/2022",
+            "title": "Design and Communication Coordinator",
+            "org": "ARAMA Participatory Management Consultancy · İHKİB GİY Education and Innovation Platform & Competition",
+            "text": "Visual identity, learning materials, mentoring students, PR and copywriting, coordination of trainings, conferences and workshops, education platform coordination, data management, social media and communication."
+          },
+          {
+            "date": "11/2020",
+            "title": "Intern",
+            "org": "TRT Belgesel (documentary channel), TRT İzmir Directorate",
+            "text": "Graphic implementations and poster design."
+          }
+        ]
+      },
+      {
+        "title": "Education",
+        "items": [
+          {
+            "date": "09/2024 – 07/2026",
+            "title": "M.A. Integrated Design Research",
+            "org": "Köln International School of Design (KISD), TH Köln",
+            "text": "Social and Public Innovation Cluster. DAAD Scholarship in Fine Arts, Design and Film."
+          },
+          {
+            "date": "10/2022 – 2025",
+            "title": "B.A. Sociology",
+            "org": "Anadolu University",
+            "text": "Anadolu University, Open Education Faculty. In Turkish."
+          },
+          {
+            "date": "09/2016 – 06/2021",
+            "title": "B.A. Visual Communication Design",
+            "org": "Yaşar University, Faculty of Communication",
+            "text": "In English. Full scholarship. GPA 3.67/4.00, highest ranked degree."
+          }
+        ]
+      },
+      {
+        "title": "Scholarships",
+        "items": [
+          {
+            "date": "07/2024 – now",
+            "title": "DAAD Scholarship Holder",
+            "org": "DAAD German Academic Exchange Service",
+            "text": "Postgraduate studies in fine art, design, visual communication and film."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "Full Scholarship (100%)",
+            "org": "Yaşar University",
+            "text": "Tuition scholarship for the B.A. in Visual Communication Design."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "Housing Scholarship",
+            "org": "Yaşar University",
+            "text": "Dormitory scholarship."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "KYK Scholarship",
+            "org": "Credit and Dormitories Institution (KYK), Türkiye",
+            "text": "State student scholarship."
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "items": [
+          {
+            "date": "01/2026 – now",
+            "title": "Member, Hidden Agenda Collective",
+            "org": "Artist and designer collective with a shared workshop",
+            "text": "Volunteer artistic collaboration and a small studio of her own; co-organising festivals, events, exhibitions, film screenings, flea markets and talks."
+          }
+        ]
+      },
+      {
+        "title": "Selected projects and exhibitions",
+        "items": [
+          {
+            "date": "2025 – now",
+            "title": "The Institute of Inner Mechanics",
+            "org": "Master's thesis, KISD",
+            "text": "Supervised by Prof. Oliver Baron and Diego Alatorre Guzmán."
+          },
+          {
+            "date": "2025",
+            "title": "Customer Centers of the Future",
+            "org": "KISD × City of Cologne",
+            "text": "Service design research and redesign for the Kundenzentrum."
+          },
+          {
+            "date": "2024",
+            "title": "The Fake News Mystery",
+            "org": "KISD, Designing Services through a Systemic Perspective",
+            "text": "Media literacy play kit, team project."
+          },
+          {
+            "date": "2025",
+            "title": "Isn't this what you want? (short film)",
+            "org": "Set design",
+            "text": ""
+          },
+          {
+            "date": "2024",
+            "title": "“Yield Events” exhibition and public programme",
+            "org": "BAYETAV Art",
+            "text": "Coordination, facilitation, social media, visual and print coordination."
+          },
+          {
+            "date": "2023",
+            "title": "“Arising from and flowing back to itself” exhibition",
+            "org": "BAYETAV Art and Center of Space for Justice Foundation",
+            "text": "Coordination, communication facilitation, social media coordination."
+          },
+          {
+            "date": "2023",
+            "title": "“Praise for Multiple Identities” oral history research",
+            "org": "BAYETAV Art, part of the Ode to Earth exhibition",
+            "text": "Archive research, communication design, editorial design."
+          },
+          {
+            "date": "2021",
+            "title": "Interactive Digital Exhibits to Experience Architectural Heritage: Balcony Balustrades of Ankara (1950–1975)",
+            "org": "İzmir Chamber of Architects, coord. Zeynep Tuna Ultav",
+            "text": "Interaction design, photography, video, social media design, installation."
+          },
+          {
+            "date": "2021",
+            "title": "Motif, graduation project",
+            "org": "Good Design 6: Common Futures Reloaded",
+            "text": ""
+          },
+          {
+            "date": "2021",
+            "title": "Interactive Online Experiences for İzmir City Archive (Apikam)",
+            "org": "Good Design: Common Futures, coord. Daniele Savasta",
+            "text": "Serious game."
+          },
+          {
+            "date": "2019",
+            "title": "Fair Press: letterpress and stereotype printed postcards",
+            "org": "Good Design / İzmir Municipality, coord. Emre Yıldız",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "so-fi: mobile experiences with visually impaired and blind people",
+            "org": "İzmir Tarih Project Center, with İzmir Municipality and Vestel UX team",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "F: Ata Kam fanzine design workshop",
+            "org": "Hayy Open Space",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "Menstruation cycle data visualisation",
+            "org": "Good Design",
+            "text": ""
+          },
+          {
+            "date": "2018",
+            "title": "Kemeraltı Oral Culture Dictionary",
+            "org": "Good Design, coord. Metehan Özcan and Bahar Emgin",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "title": "Selected freelance projects",
+        "items": [
+          {
+            "date": "2022 – 2023",
+            "title": "ARAMA Participatory Management Consultancy",
+            "org": "Presentation design; reporting of search conference workshops with Yaşar Holding (2023)",
+            "text": ""
+          },
+          {
+            "date": "2023",
+            "title": "“DNA of Turnaround” data visualisation",
+            "org": "Prof. Oğuz Babüroğlu & Alperen Manisalıgil",
+            "text": "For an article published by the Academy of Management."
+          },
+          {
+            "date": "2023",
+            "title": "Öncü Academy online management education platform",
+            "org": "Ahmet Öncü",
+            "text": "Web design, editorial design, branding."
+          },
+          {
+            "date": "2023",
+            "title": "“We are here for Hatay” earthquake ecology report",
+            "org": "Kelemet Çiğdem Türk Kentel",
+            "text": "Editorial, web and social media design."
+          },
+          {
+            "date": "2022",
+            "title": "Kamion app explainer and promotion videos",
+            "org": "Kamion",
+            "text": "Motion and graphic design."
+          },
+          {
+            "date": "2021 – 2023",
+            "title": "Sarıgözoğlu Inc. monthly bulletin",
+            "org": "İrem Sarıgözoğlu",
+            "text": "Visual identity, editorial design, illustrations."
+          },
+          {
+            "date": "2021 – 2022",
+            "title": "Innovation and excellence guides (Canada, SPRING Singapore) and EGİAD 2021 strategy roadmap",
+            "org": "Selçuk Karaata",
+            "text": "Editorial design, print."
+          },
+          {
+            "date": "2019 – 2022",
+            "title": "Pati Veterinary Clinic",
+            "org": "Özlem Subaşı",
+            "text": "Visual identity, installation, service design."
+          }
+        ]
+      },
+      {
+        "title": "Certified trainings",
+        "items": [
+          {
+            "date": "2026",
+            "title": "German B2.1",
+            "org": "TH Köln",
+            "text": ""
+          },
+          {
+            "date": "2025",
+            "title": "German B1",
+            "org": "TH Köln",
+            "text": ""
+          },
+          {
+            "date": "12/2022",
+            "title": "Service Design for the Real World: A Practical Introduction",
+            "org": "Udemy, 7 hours",
+            "text": ""
+          },
+          {
+            "date": "2015 – 2016",
+            "title": "Applied Drama",
+            "org": "Turkish Ministry of Education Public Education Center, 176 hours",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "languages": [
+      "Turkish · native",
+      "English · advanced",
+      "German · B2.1 (TH Köln, 2026)"
+    ],
+    "skills": [
+      {
+        "title": "Learning & research",
+        "text": "Participatory research, ethnography, observation and documentation, mapping social and educational contexts"
+      },
+      {
+        "title": "Educational design & facilitation",
+        "text": "Workshop design, learning materials, tangible and game-based learning formats, coordination of learning systems"
+      },
+      {
+        "title": "Design & communication",
+        "text": "Visual identity, publication design, motion and information design, UI/UX and web design, data visualisation"
+      },
+      {
+        "title": "Artistic & narrative practice",
+        "text": "Storytelling, exhibition design, film set collaboration, writing and reflection"
+      },
+      {
+        "title": "Tools",
+        "text": "Adobe CC, Figma, Canva, Wix and HTML basics, AI-assisted prototyping, photography, video editing"
+      }
+    ],
+    "interests": [
+      "Cultural studies and society",
+      "Sub-cultures and identity",
+      "Psychology",
+      "Systemic thinking",
+      "Volunteer stray animal care"
+    ]
+  }
+}

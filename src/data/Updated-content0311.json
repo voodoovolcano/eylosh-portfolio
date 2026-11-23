@@ -1,0 +1,1285 @@
+{
+  "meta": {
+    "name": "Eylem Eylül Acarsoy",
+    "nickname": "Eylosh",
+    "build": "2.6",
+    "email": "eylulacarsoy@gmail.com"
+  },
+  "intro": [
+    {
+      "text": "eylem eylül acarsoy. eylosh, for short.",
+      "art": [
+        {
+          "shape": "hello",
+          "x": 80,
+          "y": 14,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.7
+        }
+      ]
+    },
+    {
+      "text": "a researcher and designer who never managed to stay in one discipline.",
+      "art": [
+        {
+          "shape": "arrows",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "b",
+          "tone": "green",
+          "depth": 0.9
+        },
+        {
+          "shape": "spark",
+          "x": 8,
+          "y": 72,
+          "cell": 9,
+          "set": "d",
+          "tone": "ink",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "she is curious about how identity, expression and introspection are shaped by the societies and institutions around us.",
+      "art": [
+        {
+          "shape": "mind",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "c",
+          "tone": "ink",
+          "depth": 0.7
+        },
+        {
+          "shape": "loop",
+          "x": 8,
+          "y": 74,
+          "cell": 10,
+          "set": "b",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "she studied visual communication design with a strong dose of cultural studies, and spent a few years in sociology too. one taught her to make things, the other to ask why people do what they do.",
+      "art": [
+        {
+          "shape": "ask",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.6
+        },
+        {
+          "shape": "question",
+          "x": 84,
+          "y": 70,
+          "cell": 12,
+          "set": "a",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    },
+    {
+      "text": "she has run cultural and educational spaces and organisations, coordinated projects and events, facilitated workshops, built archives, and gave art, research and organisations a visual voice.",
+      "art": [
+        {
+          "shape": "space",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "e",
+          "tone": "green",
+          "depth": 0.9
+        },
+        {
+          "shape": "book",
+          "x": 8,
+          "y": 72,
+          "cell": 10,
+          "set": "b",
+          "tone": "ink",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "today she is a master's candidate in the social and public innovation cluster at KISD in cologne, and a research assistant at the university of wuppertal.",
+      "art": [
+        {
+          "shape": "cap2",
+          "x": 80,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.7
+        },
+        {
+          "shape": "steps",
+          "x": 8,
+          "y": 72,
+          "cell": 10,
+          "set": "d",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    },
+    {
+      "text": "she looks at things from six sides:",
+      "art": [],
+      "hold": 2.6,
+      "sides": true,
+      "then": "she loves solutions, but she doesn't rush them."
+    },
+    {
+      "text": "she feels most at home in community. these days that's the hidden agenda collective: artists and designers from many fields.",
+      "art": [
+        {
+          "shape": "people",
+          "x": 82,
+          "y": 12,
+          "cell": 8,
+          "set": "d",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "heart",
+          "x": 8,
+          "y": 72,
+          "cell": 9,
+          "set": "a",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "also: her family's home is a sanctuary for adopted stray cats. nine of them, currently.",
+      "art": [
+        {
+          "shape": "cat2",
+          "x": 80,
+          "y": 12,
+          "cell": 8,
+          "set": "a",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "heart",
+          "x": 84,
+          "y": 72,
+          "cell": 9,
+          "set": "d",
+          "tone": "green",
+          "depth": 0.5
+        }
+      ]
+    },
+    {
+      "text": "there are several versions of her. choose one.",
+      "art": [
+        {
+          "shape": "stack",
+          "x": 82,
+          "y": 12,
+          "cell": 12,
+          "set": "c",
+          "tone": "ink",
+          "depth": 0.8
+        },
+        {
+          "shape": "arrow-down",
+          "x": 8,
+          "y": 72,
+          "cell": 11,
+          "set": "a",
+          "tone": "green",
+          "depth": 1.0
+        }
+      ]
+    }
+  ],
+  "lenses": {
+    "learning": {
+      "label": "learning",
+      "subtitle": "learning experience · educational design · workshops",
+      "line": "she designs learning experiences: workshops, learning materials, play kits and digital tools for learning paths, for students, children and educators.",
+      "bug": "warning: wants every learning experience to be improved.",
+      "core": "learning design"
+    },
+    "systems": {
+      "label": "systems",
+      "subtitle": "social & cultural systems · design management · facilitation",
+      "line": "she coordinates programmes, designs workflows and facilitates the people inside them, from an education platform to a cultural foundation.",
+      "bug": "warning: cannot accept \"that's how things work\".",
+      "core": "coordination"
+    },
+    "visual": {
+      "label": "visual",
+      "subtitle": "visual identity · editorial · data visualisation · ui",
+      "line": "she gives complex content a clear visual form: identities, publications, websites, interfaces and data visualisation.",
+      "bug": "warning: can spend hours adjusting one tiny detail.",
+      "core": "visual communication"
+    },
+    "research": {
+      "label": "research",
+      "subtitle": "design research · sociology · ethnography · writing",
+      "line": "she researches through design: fieldwork, ethnography, interviews and speculative methods, with a sociological eye.",
+      "bug": "warning: one question creates 17 new ones.",
+      "core": "design research"
+    },
+    "art": {
+      "label": "art",
+      "subtitle": "speculative & critical design · art · installation",
+      "line": "she works with speculation, installation and print, often collectively, to make questions tangible.",
+      "bug": "warning: a simple object becomes a whole fictional universe.",
+      "core": "artistic practice"
+    }
+  },
+  "combinations": {
+    "learning+systems": "designs how learning runs inside institutions: platforms, paths and programmes.",
+    "learning+visual": "turns learning content into clear, tangible material: roadmaps, empathy maps and interfaces for learning paths.",
+    "learning+research": "researches how people learn and reflect, and designs from what she finds, from her thesis on introspection to Refin(d)ing KISD.",
+    "art+learning": "uses play, storytelling and making as ways of learning: games, workshops and speculative settings.",
+    "systems+visual": "makes organisations readable: identities, reports, workflows and visual strategies for institutions.",
+    "research+systems": "researches how institutions and services work for the people who use them, and redesigns them together.",
+    "art+systems": "coordinates exhibitions, public programmes and collective spaces where art meets its audience.",
+    "research+visual": "translates research into visual form: reports, books, maps and data visualisation.",
+    "art+visual": "works between graphic design and art: printmaking, fanzines, installations and identities for cultural spaces.",
+    "art+research": "builds speculative and critical works on real research questions, like a fictional institute for introspection.",
+    "_three_or_four": "{list} in one practice. the works below sit where they overlap.",
+    "_all": "all five together: design research, learning design, visual communication, coordination and artistic practice. the full range of her work.",
+    "_none": "pick one or more versions to see that side of her work."
+  },
+  "timeline": [
+    {
+      "label": "Visual Communication Design Bachelor",
+      "from": 2017.1,
+      "to": 2021.45,
+      "rows": [
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "visual",
+        "learning"
+      ],
+      "pitch": "Yaşar University, İzmir. where research through design started."
+    },
+    {
+      "label": "Workshops",
+      "from": 2018.1,
+      "to": 2020.1,
+      "rows": [
+        "art"
+      ],
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "pitch": "Fuar Matbaası, F Fanzin, Kemeraltı Dictionary: making by hand, with others."
+    },
+    {
+      "label": "Writings",
+      "from": 2018.4,
+      "to": 2020.6,
+      "rows": [
+        "research"
+      ],
+      "lenses": [
+        "research",
+        "art"
+      ],
+      "pitch": "essays on postmodernism, consumer culture, new media and film, and the questions behind the projects: sub-cultures, identity, originality.",
+      "sub": "Interests: sub-cultures, identity, originality, consumer culture, postmodernism"
+    },
+    {
+      "label": "Freelance Design Projects",
+      "sub": "client work since 2019: identities, publications, web, data visualisation",
+      "from": 2019.7,
+      "to": 2027.0,
+      "rows": [],
+      "lenses": [
+        "visual",
+        "systems"
+      ],
+      "pitch": "since 2019, alongside everything else: branding, editorial and web design for clients from innovation consultancies to NGOs.",
+      "lane": "alongside"
+    },
+    {
+      "label": "GİY",
+      "sub": "with ARAMA Consultancy · design and communication coordinator",
+      "from": 2021.5,
+      "to": 2022.45,
+      "rows": [
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "work": "giy",
+      "pitch": "design & communication coordinator: visual identity, learning materials, design-thinking workshops, mentoring students."
+    },
+    {
+      "label": "Service Design Projects",
+      "from": 2021.5,
+      "to": 2022.45,
+      "rows": [
+        "systems"
+      ],
+      "lenses": [
+        "systems"
+      ],
+      "pitch": "service and strategy design for freelance clients."
+    },
+    {
+      "label": "Sociology",
+      "sub": "bachelor's studies",
+      "from": 2022.8,
+      "to": 2025.0,
+      "rows": [],
+      "lenses": [
+        "research"
+      ],
+      "pitch": "three years of sociology alongside work, 2022–2025: better tools for asking why people do what they do.",
+      "lane": "alongside"
+    },
+    {
+      "label": "BAYETAV Art",
+      "sub": "Design and Experience Strategist",
+      "from": 2023.4,
+      "to": 2024.6,
+      "rows": [
+        "systems",
+        "learning",
+        "visual",
+        "art",
+        "research"
+      ],
+      "lenses": [
+        "systems",
+        "art",
+        "learning",
+        "visual",
+        "research"
+      ],
+      "work": "bayetav",
+      "pitch": "design & experience strategist: exhibitions, public programmes, workflows, people."
+    },
+    {
+      "label": "KISD",
+      "sub": "MA Candidate in Social and Public Innovation Cluster",
+      "from": 2024.65,
+      "to": 2027.0,
+      "rows": [
+        "art",
+        "research"
+      ],
+      "lenses": [
+        "research",
+        "learning",
+        "art",
+        "systems"
+      ],
+      "current": true,
+      "pitch": "MA in integrated design, social & public innovation, TH Köln."
+    },
+    {
+      "label": "Digipath Pro Project",
+      "sub": "Research Assistant in University of Wuppertal",
+      "from": 2026.0,
+      "to": 2027.0,
+      "rows": [
+        "systems",
+        "learning",
+        "visual"
+      ],
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "current": true,
+      "work": "lernpfad",
+      "pitch": "research assistant at the university of wuppertal since january 2026, building Lernpfad-Designer."
+    },
+    {
+      "label": "DAAD Scholarship",
+      "sub": "postgraduate studies in fine art, design, visual communication and film",
+      "from": 2024.55,
+      "to": 2027.0,
+      "rows": [],
+      "lane": "alongside",
+      "lenses": [
+        "research",
+        "learning",
+        "art"
+      ],
+      "pitch": "DAAD scholarship holder since july 2024, for her master's at KISD."
+    },
+    {
+      "label": "Hidden Agenda Collective",
+      "sub": "member · shared workshop and studio · festivals, exhibitions, screenings, flea markets, talks",
+      "from": 2026.0,
+      "to": 2027.0,
+      "rows": [],
+      "lane": "alongside",
+      "lenses": [
+        "art",
+        "systems"
+      ],
+      "pitch": "since january 2026: a community of artists and designers from different fields. a shared workshop, her small studio, and volunteer artistic collaboration: festivals, events, exhibitions, film screenings, flea markets and talks."
+    },
+    {
+      "label": "ARAMA Consultancy",
+      "sub": "presentations · Yaşar Holding search conference workshops",
+      "from": 2022.5,
+      "to": 2023.38,
+      "rows": [
+        "systems"
+      ],
+      "lenses": [
+        "systems",
+        "visual",
+        "research"
+      ],
+      "pitch": "after GİY she kept working with ARAMA, a participatory management consultancy: presentation design, and the reporting of search conference workshops with Yaşar Holding."
+    }
+  ],
+  "works": [
+    {
+      "id": "inner-mechanics",
+      "title": "the]institute]of[inner[mechanics",
+      "year": "2025–ongoing",
+      "lenses": [
+        "learning",
+        "research",
+        "art"
+      ],
+      "tag": "Speculative Design Research · Thesis",
+      "question": "What would an institute dedicated to introspection look like?",
+      "text": "Investigates inner capacity as a regenerative capacity within creative education. Through a fictional institute, it combines theoretical research, interviews, autoethnography, speculative storytelling, participatory workshops and visual mapping. Two modules: The Playground of Inner Things (with Diego Alatorre Guzmán), participatory workshops using the storytelling game Feely Thingies; and The Bureau of Inner Economies (with Oliver Baron), interviews with alternative education models. The institute is fictional; the experiences and research processes informing it are real.",
+      "role": "Research, concept development, speculative world-building, visual identity, participatory methods",
+      "featured": true,
+      "context_line": "Master's thesis at KISD, TH Köln: a fictional institute built on real workshops and research.",
+      "image": "",
+      "speculative": true,
+      "credits": {
+        "mode": "solo",
+        "with": "supervised by Prof. Oliver Baron & Diego Alatorre Guzmán",
+        "where": "KISD, TH Köln"
+      }
+    },
+    {
+      "id": "memo",
+      "title": "memo",
+      "year": "2026",
+      "lenses": [
+        "art",
+        "learning"
+      ],
+      "tag": "Speculative Game Design",
+      "question": "PLACEHOLDER — Eylül to write",
+      "text": "PLACEHOLDER",
+      "role": "PLACEHOLDER",
+      "featured": true,
+      "speculative": true,
+      "context_line": "PLACEHOLDER: speculative game design, 2026.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": ""
+      }
+    },
+    {
+      "id": "lernpfad",
+      "title": "Lernpfad-Designer",
+      "year": "2026–ongoing",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "AI-Assisted Development · Learning Experience Design",
+      "question": "How can complex learning paths become something you can see and navigate?",
+      "question_note": "PLACEHOLDER question — the 2026 PDF accidentally repeats the BAYETAV question here. Eylül to confirm.",
+      "text": "A custom web application for ALISE / DigiPad Pro at the University of Wuppertal, integrated into Moodle-based environments, for visually planning, structuring and documenting learning paths and course concepts.",
+      "role": "Concept, design & development · AI-assisted prototyping · learning experience design · interface testing",
+      "featured": true,
+      "context_line": "Built for ALISE / DigiPad Pro at the University of Wuppertal, to plan and document learning paths in Moodle.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the ALISE / DigiPad Pro project team",
+        "where": "University of Wuppertal"
+      }
+    },
+    {
+      "id": "refinding-kisd",
+      "title": "Refin(d)ing KISD",
+      "year": "2025–2026",
+      "lenses": [
+        "learning",
+        "research"
+      ],
+      "tag": "Collective Design Research · KISD",
+      "question": "What makes a design school feel like a place where you belong?",
+      "text": "Explores how students experience design education at KISD through surveys, conversations, collective reflection and a doll-making workshop: designer identity, learning habits, uncertainty, autonomy and community.",
+      "role": "Collaborative research and workshop participation",
+      "featured": true,
+      "context_line": "A collective research project at KISD on how design education actually feels from the inside.",
+      "image": "",
+      "credits": {
+        "mode": "collective",
+        "with": "with fellow KISD students",
+        "where": "KISD, TH Köln"
+      }
+    },
+    {
+      "id": "bayetav",
+      "title": "BAYETAV Art",
+      "year": "2023–2024",
+      "lenses": [
+        "systems",
+        "art",
+        "learning"
+      ],
+      "tag": "Design & Experience Strategy",
+      "question": "How can a cultural space create opportunities for encounter and exchange?",
+      "text": "Coordinated exhibitions (Yeryüzüne Övgü, Kendisinden doğup kendisine dönen, Mahsul Vakaları) and a public programme of workshops, concerts, talks and screenings. Strategic planning, workflows, venue manual, people management.",
+      "role": "Design & experience strategist · strategic planning · exhibition & event coordination · people & project management",
+      "featured": true,
+      "context_line": "Two years inside a cultural foundation's art space: exhibitions, public programmes and the workflows behind them.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the BAYETAV team",
+        "where": "BAYETAV Art, İzmir"
+      },
+      "review": {
+        "text": "BAYETAV's transdisciplinary structure is the ultimate space for me today. Traces of my portfolio projects can be found in every task I tackle here, and I've advanced ongoing projects by incorporating innovation gleaned from my other works' shortcomings.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "giy",
+      "title": "İHKİB GİY",
+      "year": "2021–2022",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "Design, Education & Innovation",
+      "question": "How can design education bring different disciplines together to rethink fashion?",
+      "text": "An apparel innovation and education platform for university students. Visual identity, learning materials (road-map booklet, empathy map, idea assessment matrix, jury manual), design-thinking workshops, mentoring and programme coordination.",
+      "role": "Design and communication coordinator",
+      "featured": true,
+      "context_line": "An apparel innovation competition and education platform by İHKİB for university students from all disciplines.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Arama Consultancy, for İHKİB",
+        "where": "online, Türkiye"
+      },
+      "review": {
+        "text": "GİY was my first project that reinforced an empathy-driven approach and taught me to deal with uncertainty. As a recent graduate, I emphasized a student-centric approach, highlighting education and the student experience, which fueled my curiosity in education.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "motif",
+      "title": "Motif",
+      "year": "2021",
+      "lenses": [
+        "art",
+        "visual"
+      ],
+      "tag": "Critical Design · Tangible Interaction · Graduation Project",
+      "question": "What happens when a society gets stuck in its search for originality?",
+      "text": "A tangible interactive storytelling console. Placing physical tools into slots on a 3D island model reveals fragments of a non-linear story about originality, consumerism, ego and mimetic theory.",
+      "role": "Concept · storytelling · interaction design · tangible prototyping · installation",
+      "tools": "Arduino · Processing · 3D printing · laser-cut cardboard · projection mapping",
+      "featured": true,
+      "context_line": "Graduation project at Yaşar University, shown at Good Design ÜTAŞ 2021.",
+      "image": "",
+      "speculative": true,
+      "credits": {
+        "mode": "solo",
+        "with": "",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "I engaged in philosophical debates about Motif's nature, leading me towards critical design. The project contained compelling elements of system design, nudging me towards service design within its narrative. My presentation of Motif was methodological, systematic, and comprehensive.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "so-fi",
+      "title": "so-fi",
+      "year": "2020",
+      "year_note": "2026 PDF says 2019, index & 2024 portfolio say 2020. Eylül to confirm.",
+      "lenses": [
+        "learning",
+        "systems",
+        "visual"
+      ],
+      "tag": "Collaborative UI/UX · Accessibility",
+      "question": "How might people experience a city beyond what they can see?",
+      "text": "A mobile experience designed for and with visually impaired and blind people, turning textures into sound and guiding them through cultural and historical places. With İzmir Tarih, İzmir Municipality and Vestel's UX team.",
+      "role": "Team project (with Merve Topay, Zeynep Güneş Acar)",
+      "featured": true,
+      "context_line": "A team project with İzmir Tarih, İzmir Municipality and Vestel's UX team.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Merve Topay & Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "In this project, insightful interviews combined with our research led to a strong application. However, our presentation lacked impact in conveying the discussed technology. Given another chance, I would research and prototype the technology earlier to enhance the presentation's effectiveness.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "cologne",
+      "title": "Customer Centers of the Future",
+      "year": "2025",
+      "lenses": [
+        "systems",
+        "visual"
+      ],
+      "tag": "Service Design · KISD × Stadt Köln (Stadtklar)",
+      "question": "How do people feel about bureaucracy before they even arrive?",
+      "text": "A team project with the City of Cologne, researching and redesigning services for the Kundenzentrum. The research focused on the digital appointment system, digitalisation and data privacy: how citizens emotionally navigate bureaucracy and information systems before they reach a public office. A comparative analysis of Germany's fragmented bureaucracy and Türkiye's centralised e-Devlet system showed how differently societies negotiate trust and security.",
+      "role": "Service design research, UI/UX, data visualisation (team project)",
+      "featured": false,
+      "context_line": "A service design project with the City of Cologne at KISD, 2025.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with the City of Cologne",
+        "where": "KISD, TH Köln"
+      }
+    },
+    {
+      "id": "publications",
+      "title": "Publications",
+      "year": "2020–2024",
+      "lenses": [
+        "visual",
+        "research",
+        "systems"
+      ],
+      "tag": "Editorial Design",
+      "question": "How do research reports become books people want to open?",
+      "text": "Reports and books for BAYETAV and innovation clients, incl. Praise for Multiple Identities (Levantines of İzmir), Rebuilding Hatay After the Earthquake, Reconstruction Report on Samandağ, Rivers and Children, Singapore & Canada Innovation Guides.",
+      "role": "Editorial design, visual identity of reports",
+      "featured": false,
+      "context_line": "Books and reports for BAYETAV and innovation clients, 2020–2024.",
+      "image": "",
+      "credits": {
+        "mode": "freelance",
+        "with": "for BAYETAV, EGİAD and innovation clients",
+        "where": ""
+      },
+      "review": {
+        "text": "Since my second year of undergrad, I've been deeply interested in publications. Now, much of my freelance work and design specialization focuses on publication design, where I thrive on meticulous, systematic approaches. This attention to detail has also bolstered my coordination skills.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "kulturbunker",
+      "title": "Kulturbunker Jokes",
+      "year": "2024",
+      "lenses": [
+        "research",
+        "art"
+      ],
+      "tag": "Participatory Ethnography",
+      "question": "PLACEHOLDER — Eylül to write",
+      "text": "PLACEHOLDER",
+      "role": "PLACEHOLDER",
+      "featured": false,
+      "context_line": "PLACEHOLDER: participatory ethnography, KISD.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": "KISD, Cologne"
+      }
+    },
+    {
+      "id": "hasretin-tadi",
+      "title": "Hasretin Tadı — Taste of Longing",
+      "year": "2024",
+      "lenses": [
+        "research",
+        "visual"
+      ],
+      "tag": "Foodscapes Research · Visual Mapping",
+      "question": "PLACEHOLDER — Eylül to write",
+      "text": "PLACEHOLDER",
+      "role": "PLACEHOLDER",
+      "featured": false,
+      "context_line": "PLACEHOLDER: foodscapes research and visual mapping, KISD.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": "KISD, Cologne"
+      }
+    },
+    {
+      "id": "feely-thingies",
+      "title": "Feely Thingies",
+      "year": "2025",
+      "lenses": [
+        "learning",
+        "art"
+      ],
+      "tag": "Tangible Game Design",
+      "question": "How can a game open a reflective moment in a group?",
+      "text": "A storytelling game used in the participatory workshops of The Playground of Inner Things, one of the two modules of the thesis The Institute of Inner Mechanics (with Diego Alatorre Guzmán). The game opens collective reflective moments in creative education.",
+      "role": "PLACEHOLDER: Eylül to confirm her role",
+      "featured": false,
+      "context_line": "A storytelling game for collective reflection, part of the thesis at KISD.",
+      "image": "",
+      "credits": {
+        "mode": "PLACEHOLDER",
+        "with": "",
+        "where": "KISD, Cologne"
+      },
+      "question_note": "Question drafted by Claude. Eylül to confirm."
+    },
+    {
+      "id": "fuar-matbaasi",
+      "title": "Fuar Matbaası / Fair Press",
+      "year": "2019",
+      "lenses": [
+        "art",
+        "visual",
+        "research"
+      ],
+      "tag": "Workshop · Letterpress",
+      "question": "How does a personal memory become a collective one?",
+      "text": "An 11-day workshop on İzmir Fair and collective memory. Data visualisation of collected memories, a personal 'memory sentence', and 100 postcards printed with letterpress, linocut and stereotype techniques, exhibited in two municipal exhibitions.",
+      "role": "Participant",
+      "featured": false,
+      "context_line": "An 11-day letterpress workshop in İzmir on the İzmir Fair and collective memory.",
+      "image": "",
+      "credits": {
+        "mode": "workshop",
+        "with": "coordinated by Emre Yıldız, with 5 participants",
+        "where": "Fuar Matbaası, İzmir"
+      },
+      "review": {
+        "text": "This workshop was my first experience with manual craftsmanship, bringing deep fulfillment after 11 sleepless days of disconnecting from digital tools. It honed my artistic skills and provided valuable cultural insights into Izmir.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "abacioglu",
+      "title": "Abacıoğlu Han",
+      "year": "2019",
+      "lenses": [
+        "research",
+        "systems"
+      ],
+      "tag": "Design Research · Cultural Probes",
+      "question": "What can a historic inn tell you if you stay long enough?",
+      "text": "Fieldwork in an İzmir han: observation, interviews, surveys, archival research. A research booklet with texture and typography analysis, HMW questions and a service blueprint, plus a cultural probes box.",
+      "role": "Team project (with Zeynep Güneş Acar)",
+      "featured": false,
+      "context_line": "Design Methodologies course at Yaşar University, set in İzmir's Kemeraltı.",
+      "image": "",
+      "credits": {
+        "mode": "team",
+        "with": "with Zeynep Güneş Acar",
+        "where": "Yaşar University, İzmir"
+      },
+      "review": {
+        "text": "This course and project sparked my passion for design methodologies and research-driven approaches. I observed the space extensively, transitioning from research to project implementation, a process I now apply at Bayetav Art, making it an enlightening experience.",
+        "written": "2024"
+      }
+    },
+    {
+      "id": "fake-news-mystery",
+      "title": "The Fake News Mystery",
+      "year": "2024",
+      "lenses": [
+        "systems",
+        "learning",
+        "visual"
+      ],
+      "tag": "Systemic Service Design · KISD",
+      "question": "What does trustworthy news look like in 2040?",
+      "text": "By 2040, fake news and information bubbles dominate and traditional media is losing relevance. As the innovation team of a media corporation, we reimagined the future of news and a strategy for trustworthy journalism. Our answer: an interactive media literacy detective play kit for children, tangible and digital, distributed through health insurance companies and designed to promote critical thinking through play. Methods included opportunity framing, influence loops, a client journey and a north star metric.",
+      "role": "Team project with Annika, Griet and Philline",
+      "featured": false,
+      "image": "",
+      "context_line": "Short-term project in Designing Services through a Systemic Perspective, KISD, 2024.",
+      "credits": {
+        "mode": "team",
+        "with": "with Annika, Griet and Philline",
+        "where": "KISD, TH Köln"
+      }
+    }
+  ],
+  "ui": {
+    "title": "versions of eylosh",
+    "intro_hint": "scroll ↓",
+    "history_title": "Trajectory",
+    "history_sub": "the long version. choose a version and watch it light up.",
+    "works_title": "work at the intersections",
+    "index_title": "index",
+    "index_sub": "everything creative.",
+    "threads_title": "versions over time",
+    "threads_hint": "the areas of life each period touched",
+    "scroll_hint_desktop": "keep scrolling ↓ to travel through time →",
+    "scroll_hint_mobile": "swipe up to travel through time →",
+    "index_preview_count": "12",
+    "index_all": "see the whole index",
+    "contact_title": "let's talk.",
+    "contact_sub": "open to projects, collaborations, research positions and residencies.",
+    "lane_label": "alongside:",
+    "story_none": "pick a version above: its row lights up, and its story appears here.",
+    "index_legend": "the icons show which versions each work belongs to. hover them.",
+    "cv_title": "cv",
+    "station_title": "version station",
+    "station_sub": "pick one or more versions, or drag them into the ring. the site shows you that side of her work.",
+    "station_empty": "pick a version",
+    "station_drop": "drop here",
+    "station_tip": "click to select · drag into the ring to mix · drag out to remove",
+    "portfolio_line": "the portfolio of eylem eylül acarsoy. designer and design researcher, cologne."
+  },
+  "stories": {
+    "systems": {
+      "text": "eylül learned systems by running them. with ARAMA she coordinated {{giy|GİY}}, an education platform for students; at {{bayetav|BAYETAV Art}} she went from running events to shaping how the whole space worked. now she maps learning paths into a tool at the university of wuppertal: {{lernpfad|Lernpfad-Designer}}.",
+      "works": [
+        "giy",
+        "bayetav",
+        "cologne",
+        "lernpfad"
+      ]
+    },
+    "learning": {
+      "text": "it started with a course in applied drama: learning by doing. at {{giy|GİY}} she designed learning materials and workshops for students, and her thesis {{inner-mechanics|the institute of inner mechanics}} asks how creative education can make room for introspection. today she builds {{lernpfad|Lernpfad-Designer}} at the university of wuppertal.",
+      "works": [
+        "giy",
+        "inner-mechanics",
+        "lernpfad",
+        "fake-news-mystery"
+      ]
+    },
+    "visual": {
+      "text": "visual communication design was her first language, and she still speaks it every day. since 2019 she has designed identities, publications and websites as a freelancer, and the {{publications|reports and books}} of BAYETAV. her way of working: understanding complexity → structuring ideas → visualizing clarity.",
+      "works": [
+        "publications",
+        "giy",
+        "motif",
+        "so-fi"
+      ]
+    },
+    "art": {
+      "text": "she makes things by hand, usually with others: letterpress at {{fuar-matbaasi|Fuar Matbaası}}, an installation like {{motif|Motif}}, exhibitions at BAYETAV Art. today her small studio is at the Hidden Agenda Collective, among artists and designers from many fields. at KISD she builds speculative worlds, like {{inner-mechanics|a fictional institute}}.",
+      "works": [
+        "motif",
+        "inner-mechanics",
+        "fuar-matbaasi",
+        "memo"
+      ]
+    },
+    "research": {
+      "text": "cultural studies came first, then fieldwork in places like {{abacioglu|Abacıoğlu Han}}, then a few years of sociology. at KISD she studies how people trust public data in {{cologne|Customer Centers of the Future}} and how education feels from the inside in {{refinding-kisd|Refin(d)ing KISD}}. for her, data is never just technical: it is cultural, emotional and human.",
+      "works": [
+        "inner-mechanics",
+        "cologne",
+        "refinding-kisd",
+        "abacioglu"
+      ]
+    }
+  },
+  "approach": {
+    "title": "how she works",
+    "sub": "keep scrolling. she walks around a project before she touches it.",
+    "outro": "then the loop starts again.",
+    "steps": [
+      {
+        "word": "critical",
+        "label": "critical",
+        "prop": "question",
+        "text": "first, she asks why it is like this, and who decided that it should be.",
+        "gloss": "asks why"
+      },
+      {
+        "word": "speculative",
+        "label": "speculative",
+        "prop": "bulb",
+        "text": "then she imagines it otherwise. what if?",
+        "gloss": "imagines otherwise"
+      },
+      {
+        "word": "empathetic",
+        "label": "empathetic",
+        "prop": "heart",
+        "text": "she listens to the people it is for, before she draws anything.",
+        "gloss": "listens first"
+      },
+      {
+        "word": "hands-on",
+        "label": "hands-on",
+        "prop": "wrench",
+        "text": "she makes it real and tests it with real people, in real places.",
+        "gloss": "tests with real people"
+      },
+      {
+        "word": "detail-|oriented",
+        "label": "detail-oriented",
+        "prop": "magnifier",
+        "text": "she goes through every detail, and weaves it back together.",
+        "gloss": "goes through every detail"
+      },
+      {
+        "word": "honest",
+        "label": "honest",
+        "prop": "eye",
+        "text": "she shows what happened, including what did not work.",
+        "gloss": "shows what didn't work"
+      }
+    ],
+    "summary": "six ways of looking, one project at a time."
+  },
+  "cv": {
+    "bio": "Eylem Eylül Acarsoy is a transdisciplinary researcher and designer exploring how identity, expression, and introspection are shaped within societal and institutional structures. With a background in visual communication, ranging from editorial and exhibition design to social media and digital platforms, she brings a holistic and systemic approach to design. Her experience spans managing cultural and educational institutions, facilitating participatory formats, and building archives and communication strategies across art, research, and organizational contexts. She is deeply curious about the ways people connect, learn, and transform together, and often finds herself nourished by the dynamics of community, collaboration, and shared rituals. She asks a lot of questions, laughs a lot, and is happiest when a room full of people starts making something together.",
+    "based": "Cologne, Germany",
+    "sections": [
+      {
+        "title": "Work experience",
+        "items": [
+          {
+            "date": "01/2026 – now",
+            "title": "Research Assistant (WHK)",
+            "org": "Bergische Universität Wuppertal · DigiPath Pro",
+            "text": "Supporting the DigiPath Pro project, which develops digital teaching and learning concepts for vocational education in the construction industry. Concept, design and development of Lernpfad-Designer."
+          },
+          {
+            "date": "05/2023 – 07/2024",
+            "title": "Design and Experience Strategist · Venue and Events Manager",
+            "org": "BAYETAV Art (We Live Together Education and Social Sciences Foundation Art Space), İzmir",
+            "text": "Co-coordination and facilitation of exhibitions; event design and organisation (workshops, talks, performances); social media coordination and design; communication facilitation; stage and sound design; event and exhibition photography and video; research, data management and archiving; people management; exhibition guidance; editorial design of research reports and exhibition books."
+          },
+          {
+            "date": "09/2019 – now",
+            "title": "Freelance Visual Communication Designer",
+            "org": "Self-employed",
+            "text": "Editorial, web, identity, motion and UI/UX design, branding, social media coordination and design."
+          },
+          {
+            "date": "07/2021 – 06/2022",
+            "title": "Design and Communication Coordinator",
+            "org": "ARAMA Participatory Management Consultancy · İHKİB GİY Education and Innovation Platform & Competition",
+            "text": "Visual identity, learning materials, mentoring students, PR and copywriting, coordination of trainings, conferences and workshops, education platform coordination, data management, social media and communication."
+          },
+          {
+            "date": "11/2020",
+            "title": "Intern",
+            "org": "TRT Belgesel (documentary channel), TRT İzmir Directorate",
+            "text": "Graphic implementations and poster design."
+          }
+        ]
+      },
+      {
+        "title": "Education",
+        "items": [
+          {
+            "date": "09/2024 – 07/2026",
+            "title": "M.A. Integrated Design Research",
+            "org": "Köln International School of Design (KISD), TH Köln",
+            "text": "Social and Public Innovation Cluster. DAAD Scholarship in Fine Arts, Design and Film."
+          },
+          {
+            "date": "10/2022 – 2025",
+            "title": "B.A. Sociology",
+            "org": "Anadolu University",
+            "text": "Anadolu University, Open Education Faculty. In Turkish."
+          },
+          {
+            "date": "09/2016 – 06/2021",
+            "title": "B.A. Visual Communication Design",
+            "org": "Yaşar University, Faculty of Communication",
+            "text": "In English. Full scholarship. GPA 3.67/4.00, highest ranked degree."
+          }
+        ]
+      },
+      {
+        "title": "Scholarships",
+        "items": [
+          {
+            "date": "07/2024 – now",
+            "title": "DAAD Scholarship Holder",
+            "org": "DAAD German Academic Exchange Service",
+            "text": "Postgraduate studies in fine art, design, visual communication and film."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "Full Scholarship (100%)",
+            "org": "Yaşar University",
+            "text": "Tuition scholarship for the B.A. in Visual Communication Design."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "Housing Scholarship",
+            "org": "Yaşar University",
+            "text": "Dormitory scholarship."
+          },
+          {
+            "date": "2016 – 2021",
+            "title": "KYK Scholarship",
+            "org": "Credit and Dormitories Institution (KYK), Türkiye",
+            "text": "State student scholarship."
+          }
+        ]
+      },
+      {
+        "title": "Community",
+        "items": [
+          {
+            "date": "01/2026 – now",
+            "title": "Member, Hidden Agenda Collective",
+            "org": "Artist and designer collective with a shared workshop",
+            "text": "Volunteer artistic collaboration and a small studio of her own; co-organising festivals, events, exhibitions, film screenings, flea markets and talks."
+          }
+        ]
+      },
+      {
+        "title": "Selected projects and exhibitions",
+        "items": [
+          {
+            "date": "2025 – now",
+            "title": "The Institute of Inner Mechanics",
+            "org": "Master's thesis, KISD",
+            "text": "Supervised by Prof. Oliver Baron and Diego Alatorre Guzmán."
+          },
+          {
+            "date": "2025",
+            "title": "Customer Centers of the Future",
+            "org": "KISD × City of Cologne",
+            "text": "Service design research and redesign for the Kundenzentrum."
+          },
+          {
+            "date": "2024",
+            "title": "The Fake News Mystery",
+            "org": "KISD, Designing Services through a Systemic Perspective",
+            "text": "Media literacy play kit, team project."
+          },
+          {
+            "date": "2025",
+            "title": "Isn't this what you want? (short film)",
+            "org": "Set design",
+            "text": ""
+          },
+          {
+            "date": "2024",
+            "title": "“Yield Events” exhibition and public programme",
+            "org": "BAYETAV Art",
+            "text": "Coordination, facilitation, social media, visual and print coordination."
+          },
+          {
+            "date": "2023",
+            "title": "“Arising from and flowing back to itself” exhibition",
+            "org": "BAYETAV Art and Center of Space for Justice Foundation",
+            "text": "Coordination, communication facilitation, social media coordination."
+          },
+          {
+            "date": "2023",
+            "title": "“Praise for Multiple Identities” oral history research",
+            "org": "BAYETAV Art, part of the Ode to Earth exhibition",
+            "text": "Archive research, communication design, editorial design."
+          },
+          {
+            "date": "2021",
+            "title": "Interactive Digital Exhibits to Experience Architectural Heritage: Balcony Balustrades of Ankara (1950–1975)",
+            "org": "İzmir Chamber of Architects, coord. Zeynep Tuna Ultav",
+            "text": "Interaction design, photography, video, social media design, installation."
+          },
+          {
+            "date": "2021",
+            "title": "Motif, graduation project",
+            "org": "Good Design 6: Common Futures Reloaded",
+            "text": ""
+          },
+          {
+            "date": "2021",
+            "title": "Interactive Online Experiences for İzmir City Archive (Apikam)",
+            "org": "Good Design: Common Futures, coord. Daniele Savasta",
+            "text": "Serious game."
+          },
+          {
+            "date": "2019",
+            "title": "Fair Press: letterpress and stereotype printed postcards",
+            "org": "Good Design / İzmir Municipality, coord. Emre Yıldız",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "so-fi: mobile experiences with visually impaired and blind people",
+            "org": "İzmir Tarih Project Center, with İzmir Municipality and Vestel UX team",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "F: Ata Kam fanzine design workshop",
+            "org": "Hayy Open Space",
+            "text": ""
+          },
+          {
+            "date": "2019",
+            "title": "Menstruation cycle data visualisation",
+            "org": "Good Design",
+            "text": ""
+          },
+          {
+            "date": "2018",
+            "title": "Kemeraltı Oral Culture Dictionary",
+            "org": "Good Design, coord. Metehan Özcan and Bahar Emgin",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "title": "Selected freelance projects",
+        "items": [
+          {
+            "date": "2022 – 2023",
+            "title": "ARAMA Participatory Management Consultancy",
+            "org": "Presentation design; reporting of search conference workshops with Yaşar Holding (2023)",
+            "text": ""
+          },
+          {
+            "date": "2023",
+            "title": "“DNA of Turnaround” data visualisation",
+            "org": "Prof. Oğuz Babüroğlu & Alperen Manisalıgil",
+            "text": "For an article published by the Academy of Management."
+          },
+          {
+            "date": "2023",
+            "title": "Öncü Academy online management education platform",
+            "org": "Ahmet Öncü",
+            "text": "Web design, editorial design, branding."
+          },
+          {
+            "date": "2023",
+            "title": "“We are here for Hatay” earthquake ecology report",
+            "org": "Kelemet Çiğdem Türk Kentel",
+            "text": "Editorial, web and social media design."
+          },
+          {
+            "date": "2022",
+            "title": "Kamion app explainer and promotion videos",
+            "org": "Kamion",
+            "text": "Motion and graphic design."
+          },
+          {
+            "date": "2021 – 2023",
+            "title": "Sarıgözoğlu Inc. monthly bulletin",
+            "org": "İrem Sarıgözoğlu",
+            "text": "Visual identity, editorial design, illustrations."
+          },
+          {
+            "date": "2021 – 2022",
+            "title": "Innovation and excellence guides (Canada, SPRING Singapore) and EGİAD 2021 strategy roadmap",
+            "org": "Selçuk Karaata",
+            "text": "Editorial design, print."
+          },
+          {
+            "date": "2019 – 2022",
+            "title": "Pati Veterinary Clinic",
+            "org": "Özlem Subaşı",
+            "text": "Visual identity, installation, service design."
+          }
+        ]
+      },
+      {
+        "title": "Certified trainings",
+        "items": [
+          {
+            "date": "2026",
+            "title": "German B2.1",
+            "org": "TH Köln",
+            "text": ""
+          },
+          {
+            "date": "2025",
+            "title": "German B1",
+            "org": "TH Köln",
+            "text": ""
+          },
+          {
+            "date": "12/2022",
+            "title": "Service Design for the Real World: A Practical Introduction",
+            "org": "Udemy, 7 hours",
+            "text": ""
+          },
+          {
+            "date": "2015 – 2016",
+            "title": "Applied Drama",
+            "org": "Turkish Ministry of Education Public Education Center, 176 hours",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "languages": [
+      "Turkish · native",
+      "English · advanced",
+      "German · B2.1 (TH Köln, 2026)"
+    ],
+    "skills": [
+      {
+        "title": "Learning & research",
+        "text": "Participatory research, ethnography, observation and documentation, mapping social and educational contexts"
+      },
+      {
+        "title": "Educational design & facilitation",
+        "text": "Workshop design, learning materials, tangible and game-based learning formats, coordination of learning systems"
+      },
+      {
+        "title": "Design & communication",
+        "text": "Visual identity, publication design, motion and information design, UI/UX and web design, data visualisation"
+      },
+      {
+        "title": "Artistic & narrative practice",
+        "text": "Storytelling, exhibition design, film set collaboration, writing and reflection"
+      },
+      {
+        "title": "Tools",
+        "text": "Adobe CC, Figma, Canva, Wix and HTML basics, AI-assisted prototyping, photography, video editing"
+      }
+    ],
+    "interests": [
+      "Cultural studies and society",
+      "Sub-cultures and identity",
+      "Psychology",
+      "Systemic thinking",
+      "Volunteer stray animal care"
+    ]
+  }
+}

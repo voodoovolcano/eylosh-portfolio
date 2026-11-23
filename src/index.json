@@ -1,0 +1,864 @@
+[
+ {
+  "year": 2026,
+  "title": "Hidden Agenda Collective",
+  "type": "Artist collective · shared workshop · festivals, exhibitions, screenings, flea markets, talks",
+  "context": "Collective",
+  "lenses": [
+   "art",
+   "systems"
+  ],
+  "lenses_auto": false
+ },
+ {
+  "year": 2026,
+  "title": "Lernpfad Designer",
+  "type": "Vibe coding, UI-UX, Visualisation",
+  "context": "University of Wuppertal",
+  "lenses": [
+   "learning",
+   "systems",
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "lernpfad"
+ },
+ {
+  "year": 2026,
+  "title": "memo",
+  "type": "Speculative Game Design",
+  "context": "",
+  "lenses": [
+   "art",
+   "learning"
+  ],
+  "lenses_auto": false,
+  "work": "memo"
+ },
+ {
+  "year": 2025,
+  "title": "Screenprinting Lab AG",
+  "type": "",
+  "context": "Master",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2025,
+  "title": "Service Design Lab AG",
+  "type": "",
+  "context": "Master",
+  "lenses": [
+   "systems"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2025,
+  "title": "Re-thinking Design Education AG - Re(f)inding KISD MIP",
+  "type": "",
+  "context": "Master",
+  "lenses": [
+   "learning"
+  ],
+  "lenses_auto": true,
+  "work": "refinding-kisd"
+ },
+ {
+  "year": 2025,
+  "title": "The Institute of Inner Mechanics",
+  "type": "Speculative Design Research · Master Thesis",
+  "context": "Master",
+  "lenses": [
+   "learning",
+   "research",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "inner-mechanics"
+ },
+ {
+  "year": 2025,
+  "title": "Isn't this what you want? (short film)",
+  "type": "Set Design",
+  "context": "Film",
+  "note": "Artistic Engagement",
+  "lenses": [
+   "art",
+   "visual"
+  ],
+  "lenses_auto": false
+ },
+ {
+  "year": 2025,
+  "title": "Transurban - Essen Summer Camp",
+  "type": "Workshop · Artistic Urban Performance",
+  "context": "Workshop",
+  "note": "Artistic Engagement",
+  "lenses": [
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2025,
+  "title": "Re-thinking Design Education AG - Re(f)inding KISD",
+  "type": "Research, Collective Facilitation, Coordination, Workshops",
+  "context": "Master",
+  "lenses": [
+   "learning",
+   "systems",
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "refinding-kisd"
+ },
+ {
+  "year": 2025,
+  "title": "City of Cologne - Customer Centers of The Future",
+  "type": "Service Design, UI/UX, Data Visualisation",
+  "context": "Master",
+  "lenses": [
+   "systems",
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "cologne"
+ },
+ {
+  "year": 2025,
+  "title": "Feely Thingies",
+  "type": "Tangible Game Design",
+  "context": "Master",
+  "lenses": [
+   "learning",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "feely-thingies"
+ },
+ {
+  "year": 2025,
+  "title": "Wie",
+  "type": "Experimental Writing",
+  "context": "",
+  "lenses": [
+   "art",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2025,
+  "title": "Semiotics - George Herbert Mead",
+  "type": "Research",
+  "context": "Master",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2025,
+  "title": "Fake News Mystery",
+  "type": "Service Design, Strategy and Communication Design",
+  "context": "Master",
+  "lenses": [
+   "systems"
+  ],
+  "lenses_auto": true,
+  "work": "fake-news-mystery"
+ },
+ {
+  "year": 2024,
+  "title": "Re-thinking Design Education",
+  "type": "Research",
+  "context": "Master",
+  "lenses": [
+   "learning",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Designing Degrowth",
+  "type": "Paper",
+  "context": "Master",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Moss and Ivy in the City",
+  "type": "Research and Visual Mapping",
+  "context": "Master",
+  "lenses": [
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Hasretin Tadı - Taste of Longing",
+  "type": "Foodscapes Research Visual Mapping",
+  "context": "Master",
+  "lenses": [
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "hasretin-tadi"
+ },
+ {
+  "year": 2024,
+  "title": "Kulturbunker Jokes",
+  "type": "Participatory Ethnography",
+  "context": "Master",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "kulturbunker"
+ },
+ {
+  "year": 2024,
+  "title": "Nehirler ve Çocuklar",
+  "type": "Report Book Design",
+  "context": "Bayetav",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Bayetav Art Strategies",
+  "type": "Research,Strategy Design, Workflows, People Management",
+  "context": "Bayetav",
+  "lenses": [
+   "systems",
+   "research",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "bayetav"
+ },
+ {
+  "year": 2024,
+  "title": "Discrimination Workshop",
+  "type": "Workshop Material Design",
+  "context": "Bayetav",
+  "lenses": [
+   "learning"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Depremden Sonra Hatay'ı Yeniden Kurmak",
+  "type": "Report Publication Design",
+  "context": "Bayetav",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Afacan",
+  "type": "Visual Identity and Webdesign",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "DNA of Turnaround",
+  "type": "Data Visualisation",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "data-visualisation"
+ },
+ {
+  "year": 2024,
+  "title": "Öncü Academy",
+  "type": "Visual Identity, Web Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2024,
+  "title": "Peninsula",
+  "type": "Web Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Bayetav Materials",
+  "type": "Event Organisation Tool Design",
+  "context": "Bayetav",
+  "lenses": [
+   "systems"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Bayetav Art Space",
+  "type": "Inventory, Archive, Daily/Montly Report Documentation Design, Venue Manual Design",
+  "context": "Bayetav",
+  "lenses": [
+   "systems",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "bayetav"
+ },
+ {
+  "year": 2023,
+  "title": "Bayetav Art Workshops",
+  "type": "Event Management, Communication, Light-Sound-Stage-Photography-Videography-Social Media",
+  "context": "Bayetav",
+  "lenses": [
+   "systems",
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "bayetav"
+ },
+ {
+  "year": 2023,
+  "title": "Mahsul Vakaları Exhibition",
+  "type": "Communication, Coordination Facilitation, Social Media, Publication & Print",
+  "context": "Bayetav",
+  "lenses": [
+   "systems",
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Kendisinden doğup kendisine dönen Exhibition",
+  "type": "Communication, Coordination Facilitation, Social Media, Print",
+  "context": "Bayetav",
+  "lenses": [
+   "systems",
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Hatay için Buradayız Initiative",
+  "type": "Report Publication Design, Social Media",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Yeryüzüne Övgü / Ode to Earth Exhibition",
+  "type": "Installation, Guided Tours, Social Media",
+  "context": "Bayetav",
+  "lenses": [
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Arama Consultancy",
+  "type": "Presentation Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Kamion App",
+  "type": "How to use App Motion Design, Google PerformanceMax Advertisements",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Praise to Multiple Identities",
+  "type": "Book Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Praise to Multiple Identities Installation",
+  "type": "Archive Research, Video Timing",
+  "context": "Freelance",
+  "lenses": [
+   "visual",
+   "research",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Yaşar Holding Search Conference Workshops",
+  "type": "Workshop Reporting",
+  "context": "Freelance",
+  "lenses": [
+   "systems",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2023,
+  "title": "Oya",
+  "type": "Service and Strategy Design",
+  "context": "Freelance",
+  "lenses": [
+   "systems"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2022,
+  "title": "Sarıgözoğlu Inc. Bulletin",
+  "type": "Publication Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2022,
+  "title": "Nesin Village - Todays Art",
+  "type": "",
+  "context": "Workshop",
+  "note": "Artistic Engagement",
+  "lenses": [
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2021,
+  "title": "Analysis of Films (Ana Yurdu and Köksüz) within the Framework of Motherhood",
+  "type": "Film Essay",
+  "context": "Writings",
+  "lenses": [
+   "research",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2021,
+  "title": "Analysis of French New Wave over the Comparison of Films (Pierrot Le Fou and Bufalo ‘66)",
+  "type": "Film Essay",
+  "context": "Writings",
+  "lenses": [
+   "research",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2021,
+  "title": "Postmodernism, Postfordism and Cultural Studies",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2021,
+  "title": "Ankara Balkon Korkulukları",
+  "type": "Exhibition Installation, UI-UX Design, Social Media",
+  "context": "Freelance",
+  "lenses": [
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "ankara-balconies"
+ },
+ {
+  "year": 2021,
+  "title": "Apikam City Archive İzmir",
+  "type": "Online Museum UI/UX Design, Research",
+  "context": "Freelance",
+  "lenses": [
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "apikam"
+ },
+ {
+  "year": 2021,
+  "title": "İHKİB GİY - Innovation Education Platform",
+  "type": "Communication Coordination, Learning Materials, Visual Identity, Motion Design, Social Media",
+  "context": "Freelance",
+  "lenses": [
+   "systems",
+   "learning",
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "giy"
+ },
+ {
+  "year": 2021,
+  "title": "Motif",
+  "type": "Critical Design · Tangible Interactive Console",
+  "context": "Undergraduate",
+  "pitch": "Arduino, Laser cut, projection mapping, narrative (scenario), animation",
+  "lenses": [
+   "art",
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "motif"
+ },
+ {
+  "year": 2021,
+  "title": "Spring Innovation",
+  "type": "Publication Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "spring-guide"
+ },
+ {
+  "year": 2021,
+  "title": "Canada Innovation",
+  "type": "Publication Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Modernism, Fordism and Mass Culture",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Consumer Culture, Mass Media and Public Sphere",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "EGIAD Strategic Roadmap",
+  "type": "Publication Design",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Steampunk Caterpillar",
+  "type": "3D Character Modelling",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Eraserhead Baby",
+  "type": "3D Character Modelling",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Urla Design Library",
+  "type": "Visual Identity/Web Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "urla-design-library"
+ },
+ {
+  "year": 2020,
+  "title": "Şehirden Uzakta",
+  "type": "Graphic/Motion Design",
+  "context": "Internship",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Postmodernism,",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Charlie",
+  "type": "Video",
+  "context": "Undergraduate",
+  "pitch": "Informative advertisement",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "Pati",
+  "type": "Visual Identity",
+  "context": "Freelance",
+  "pitch": "Logo and printed applications",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "so-fi",
+  "type": "App Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "learning",
+   "systems",
+   "visual"
+  ],
+  "lenses_auto": true,
+  "work": "so-fi"
+ },
+ {
+  "year": 2020,
+  "title": "About net.art and AR",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2020,
+  "title": "About New Media, Electronic and Digital Art",
+  "type": "Essay",
+  "context": "Writings",
+  "lenses": [
+   "research",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "4T - Design and Authority Symposium",
+  "type": "Visual Identity Application",
+  "context": "Freelance",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "Abacıoğlu Han",
+  "type": "Design Research, Cultural Probes, HMW, Service Blueprint",
+  "context": "Undergraduate",
+  "lenses": [
+   "systems",
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true,
+  "work": "abacioglu"
+ },
+ {
+  "year": 2019,
+  "title": "Spicy Spy",
+  "type": "Research & Data Visualisation",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "wH00",
+  "type": "Game Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "learning"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "diffilterly",
+  "type": "Toy Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "diffilterly"
+ },
+ {
+  "year": 2019,
+  "title": "Batman Foley",
+  "type": "Foley Sound Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "F-Fanzine",
+  "type": "Artistic Fanzine Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "f-fanzine"
+ },
+ {
+  "year": 2019,
+  "title": "Fuar Matbaası/ Fair Press",
+  "type": "Postcard Print",
+  "context": "Workshop",
+  "pitch": "Letterpress/Stereotype/Linol Postcard Printing Process",
+  "lenses": [
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true,
+  "work": "fuar-matbaasi"
+ },
+ {
+  "year": 2019,
+  "title": "Suni Zincir",
+  "type": "Data Visualisation",
+  "context": "Workshop",
+  "pitch": "Menstruation Data Visualisation",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2019,
+  "title": "Contact",
+  "type": "UI/UX Design",
+  "context": "Undergraduate",
+  "pitch": "UI/UX Design for Contact Film Festival Archive",
+  "lenses": [
+   "visual",
+   "art"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2018,
+  "title": "How to make Tarhana Visual Recipe",
+  "type": "Motion Design",
+  "context": "Undergraduate",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2018,
+  "title": "Kemeraltı Dictionary",
+  "type": "Cultural Research & Sticker Design",
+  "context": "Workshop",
+  "lenses": [
+   "visual",
+   "research"
+  ],
+  "lenses_auto": true
+ },
+ {
+  "year": 2018,
+  "title": "MGMT",
+  "type": "Typeface",
+  "context": "Undergraduate",
+  "pitch": "Album cover headline inspired typeface",
+  "lenses": [
+   "visual"
+  ],
+  "lenses_auto": true
+ }
+]

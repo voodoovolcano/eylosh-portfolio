@@ -926,17 +926,17 @@
         "systems",
         "visual"
       ],
-      "tag": "Design, Education & Innovation",
-      "question": "How can design education bring different disciplines together to rethink fashion?",
-      "text": "An apparel innovation and education platform for university students. Visual identity, learning materials (road-map booklet, empathy map, idea assessment matrix, jury manual), design-thinking workshops, mentoring and programme coordination.",
-      "role": "Design and communication coordinator",
+      "tag": "Apparel Innovation · Design Education · Programme Coordination",
+      "question": "How might students from different disciplines develop sustainable and socially engaged apparel innovations through design thinking?",
+      "text": "İHKİB GİY is a non-profit apparel innovation competition and education platform for university students from all disciplines. It brings interdisciplinary teams together to develop innovative apparel projects with sustainability and social insights, using design-thinking methods. The programme takes place digitally with the contributions of the Republic of Türkiye Ministry of Trade, the Council of Higher Education (YÖK), the Turkish Exporters Assembly (TİM), the İstanbul Apparel Exporters’ Association (İHKİB) and the İstanbul Apparel Exporters’ Association Education Foundation.",
+      "role": "Visual Identity Designer, later Design & Communication Coordinator",
       "featured": true,
-      "context_line": "An apparel innovation competition and education platform by İHKİB for university students from all disciplines.",
+      "context_line": "A non-profit apparel innovation competition and digital education platform by İHKİB, bringing university students from different disciplines together.",
       "image": "",
       "credits": {
         "mode": "team",
-        "with": "with Arama Consultancy, for İHKİB",
-        "where": "online, Türkiye"
+        "with": "Arama Consultancy İHKİB GİY Team, 12 Yapım Creative Agency and SPP42 Software Development Company",
+        "where": "for İHKİB and İHKİB Education Foundation, Türkiye"
       },
       "review": {
         "text": "GİY was my first project that reinforced an empathy-driven approach and taught me to deal with uncertainty. As a recent graduate, I emphasized a student-centric approach, highlighting education and the student experience, which fueled my curiosity in education.",
@@ -954,6 +954,80 @@
       "hero_video": "https://video.wixstatic.com/video/5ec39d_45f6c392795b441bb75103aa9705d59c/1080p/mp4/file.mp4",
       "flow_max": 860,
       "sections": [
+        {
+          "title": "the programme",
+          "text": "İHKİB GİY is a non-profit competition and education platform for university students from all disciplines. It encourages interdisciplinary teams to develop innovative apparel projects informed by sustainability and social insights. Design-thinking methods structure the learning journey, from understanding people and exploring needs to developing and presenting project proposals.",
+          "items": [
+            "Interdisciplinary student teams",
+            "Apparel innovation",
+            "Sustainability and social insights",
+            "Design-thinking-based learning"
+          ],
+          "flow": []
+        },
+        {
+          "title": "my involvement",
+          "text": "I joined the project initially as a Visual Identity Designer. As the programme developed, my role expanded and I became part of the Arama Consultancy İHKİB GİY Team as Design & Communication Coordinator. I worked with a multidisciplinary team including Prof. Dr. Oğuz Babüroğlu, Selçuk Karaata, Dr. Duygu Özalp and Müjde Keskin, in coordination with 12 Yapım Creative Agency and SPP42 Software Development Company.",
+          "items": [],
+          "flow": []
+        },
+        {
+          "title": "visual identity & communication",
+          "text": "I developed the project's visual language and communication materials across print, digital and moving image formats, supporting the competition and its education programme.",
+          "items": [
+            "Logo and visual identity applications",
+            "Posters, brochures and roll-ups",
+            "Jury manual and competition guide",
+            "Promotion and advertisement videos",
+            "Informative presentations"
+          ],
+          "flow": []
+        },
+        {
+          "title": "public relations & stakeholder communication",
+          "text": "I introduced the programme to its academic and student communities and maintained communication with the people taking part in the process.",
+          "items": [
+            "Communication with universities and student clubs",
+            "Presentations for students and academics",
+            "Mailing and one-to-one communication with students and academic mentors",
+            "Responding to student questions and helping resolve problems"
+          ],
+          "flow": []
+        },
+        {
+          "title": "education, workshops & mentoring",
+          "text": "I supported the learning experience by moderating programme activities and mentoring students as they developed their projects.",
+          "items": [
+            "Moderation of trainings, conferences and workshops",
+            "Mentoring in design thinking",
+            "Mentoring in UI/UX and information design",
+            "Mentoring in advertisement and presentation"
+          ],
+          "flow": []
+        },
+        {
+          "title": "programme & platform coordination",
+          "text": "I coordinated the programme's moving parts across people, dates and digital tools, keeping communication between the education team and technical partners connected.",
+          "items": [
+            "Management of dates and programme schedules",
+            "Action-plan organisation",
+            "Coordination with the software team through productivity tools",
+            "Administration of the digital education platform",
+            "Interactive content creation",
+            "Coordination with the social media agency, creative content production and art direction"
+          ],
+          "flow": []
+        },
+        {
+          "title": "data management & reporting",
+          "text": "I organised the information generated throughout the competition and education process, turning it into structured records that supported coordination and evaluation.",
+          "items": [
+            "Collecting and classifying application, assignment and attendance data",
+            "Data analysis and reporting",
+            "Data visualisations"
+          ],
+          "flow": []
+        },
         {
           "title": "learning materials",
           "text": "For the online education platform I designed a set of learning materials that guided students from discovery to their final proposal: workbooks, maps, matrices, cards and checklists. Hover over a card to see what it is; click to open the file.",
